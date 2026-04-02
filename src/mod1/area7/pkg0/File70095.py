@@ -1,0 +1,11 @@
+// fichero 70095
+namespace Generated { public class C70095 {
+  public int M0() { return 70095; }
+  public int M1() { return 70096; }
+  public int M2() { return 70097; }
+  public int M3() { return 70098; }
+  public int M4() { return 70099; }
+  public int M5() { return 70100; }
+  public int M6() { return 70101; }
+  public int M7() { return 70102; }
+} }

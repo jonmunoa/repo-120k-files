@@ -1,0 +1,11 @@
+// fichero 53
+namespace Generated { public class C53 {
+  public int M0() { return 53; }
+  public int M1() { return 54; }
+  public int M2() { return 55; }
+  public int M3() { return 56; }
+  public int M4() { return 57; }
+  public int M5() { return 58; }
+  public int M6() { return 59; }
+  public int M7() { return 60; }
+} }

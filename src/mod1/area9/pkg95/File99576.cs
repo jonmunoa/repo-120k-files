@@ -1,0 +1,11 @@
+// fichero 99576
+namespace Generated { public class C99576 {
+  public int M0() { return 99576; }
+  public int M1() { return 99577; }
+  public int M2() { return 99578; }
+  public int M3() { return 99579; }
+  public int M4() { return 99580; }
+  public int M5() { return 99581; }
+  public int M6() { return 99582; }
+  public int M7() { return 99583; }
+} }

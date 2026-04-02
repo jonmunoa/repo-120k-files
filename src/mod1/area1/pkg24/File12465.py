@@ -1,0 +1,11 @@
+// fichero 12465
+namespace Generated { public class C12465 {
+  public int M0() { return 12465; }
+  public int M1() { return 12466; }
+  public int M2() { return 12467; }
+  public int M3() { return 12468; }
+  public int M4() { return 12469; }
+  public int M5() { return 12470; }
+  public int M6() { return 12471; }
+  public int M7() { return 12472; }
+} }

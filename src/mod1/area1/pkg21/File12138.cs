@@ -1,0 +1,11 @@
+// fichero 12138
+namespace Generated { public class C12138 {
+  public int M0() { return 12138; }
+  public int M1() { return 12139; }
+  public int M2() { return 12140; }
+  public int M3() { return 12141; }
+  public int M4() { return 12142; }
+  public int M5() { return 12143; }
+  public int M6() { return 12144; }
+  public int M7() { return 12145; }
+} }

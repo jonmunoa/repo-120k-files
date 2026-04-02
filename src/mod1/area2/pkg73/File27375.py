@@ -1,0 +1,11 @@
+// fichero 27375
+namespace Generated { public class C27375 {
+  public int M0() { return 27375; }
+  public int M1() { return 27376; }
+  public int M2() { return 27377; }
+  public int M3() { return 27378; }
+  public int M4() { return 27379; }
+  public int M5() { return 27380; }
+  public int M6() { return 27381; }
+  public int M7() { return 27382; }
+} }

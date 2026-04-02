@@ -1,0 +1,11 @@
+// fichero 6583
+namespace Generated { public class C6583 {
+  public int M0() { return 6583; }
+  public int M1() { return 6584; }
+  public int M2() { return 6585; }
+  public int M3() { return 6586; }
+  public int M4() { return 6587; }
+  public int M5() { return 6588; }
+  public int M6() { return 6589; }
+  public int M7() { return 6590; }
+} }

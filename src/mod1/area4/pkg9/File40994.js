@@ -1,0 +1,11 @@
+// fichero 40994
+namespace Generated { public class C40994 {
+  public int M0() { return 40994; }
+  public int M1() { return 40995; }
+  public int M2() { return 40996; }
+  public int M3() { return 40997; }
+  public int M4() { return 40998; }
+  public int M5() { return 40999; }
+  public int M6() { return 41000; }
+  public int M7() { return 41001; }
+} }

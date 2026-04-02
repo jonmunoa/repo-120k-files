@@ -1,0 +1,11 @@
+// fichero 10464
+namespace Generated { public class C10464 {
+  public int M0() { return 10464; }
+  public int M1() { return 10465; }
+  public int M2() { return 10466; }
+  public int M3() { return 10467; }
+  public int M4() { return 10468; }
+  public int M5() { return 10469; }
+  public int M6() { return 10470; }
+  public int M7() { return 10471; }
+} }

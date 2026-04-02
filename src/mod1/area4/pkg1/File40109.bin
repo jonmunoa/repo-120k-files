@@ -1,0 +1,11 @@
+// fichero 40109
+namespace Generated { public class C40109 {
+  public int M0() { return 40109; }
+  public int M1() { return 40110; }
+  public int M2() { return 40111; }
+  public int M3() { return 40112; }
+  public int M4() { return 40113; }
+  public int M5() { return 40114; }
+  public int M6() { return 40115; }
+  public int M7() { return 40116; }
+} }

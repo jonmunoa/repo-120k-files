@@ -1,0 +1,11 @@
+// fichero 359
+namespace Generated { public class C359 {
+  public int M0() { return 359; }
+  public int M1() { return 360; }
+  public int M2() { return 361; }
+  public int M3() { return 362; }
+  public int M4() { return 363; }
+  public int M5() { return 364; }
+  public int M6() { return 365; }
+  public int M7() { return 366; }
+} }

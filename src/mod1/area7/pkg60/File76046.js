@@ -1,0 +1,11 @@
+// fichero 76046
+namespace Generated { public class C76046 {
+  public int M0() { return 76046; }
+  public int M1() { return 76047; }
+  public int M2() { return 76048; }
+  public int M3() { return 76049; }
+  public int M4() { return 76050; }
+  public int M5() { return 76051; }
+  public int M6() { return 76052; }
+  public int M7() { return 76053; }
+} }

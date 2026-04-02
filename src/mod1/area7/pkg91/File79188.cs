@@ -1,0 +1,11 @@
+// fichero 79188
+namespace Generated { public class C79188 {
+  public int M0() { return 79188; }
+  public int M1() { return 79189; }
+  public int M2() { return 79190; }
+  public int M3() { return 79191; }
+  public int M4() { return 79192; }
+  public int M5() { return 79193; }
+  public int M6() { return 79194; }
+  public int M7() { return 79195; }
+} }

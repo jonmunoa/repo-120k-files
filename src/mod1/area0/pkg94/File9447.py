@@ -1,0 +1,11 @@
+// fichero 9447
+namespace Generated { public class C9447 {
+  public int M0() { return 9447; }
+  public int M1() { return 9448; }
+  public int M2() { return 9449; }
+  public int M3() { return 9450; }
+  public int M4() { return 9451; }
+  public int M5() { return 9452; }
+  public int M6() { return 9453; }
+  public int M7() { return 9454; }
+} }

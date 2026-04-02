@@ -1,0 +1,11 @@
+// fichero 9039
+namespace Generated { public class C9039 {
+  public int M0() { return 9039; }
+  public int M1() { return 9040; }
+  public int M2() { return 9041; }
+  public int M3() { return 9042; }
+  public int M4() { return 9043; }
+  public int M5() { return 9044; }
+  public int M6() { return 9045; }
+  public int M7() { return 9046; }
+} }

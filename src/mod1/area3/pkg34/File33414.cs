@@ -1,0 +1,11 @@
+// fichero 33414
+namespace Generated { public class C33414 {
+  public int M0() { return 33414; }
+  public int M1() { return 33415; }
+  public int M2() { return 33416; }
+  public int M3() { return 33417; }
+  public int M4() { return 33418; }
+  public int M5() { return 33419; }
+  public int M6() { return 33420; }
+  public int M7() { return 33421; }
+} }

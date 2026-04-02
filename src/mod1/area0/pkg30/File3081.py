@@ -1,0 +1,11 @@
+// fichero 3081
+namespace Generated { public class C3081 {
+  public int M0() { return 3081; }
+  public int M1() { return 3082; }
+  public int M2() { return 3083; }
+  public int M3() { return 3084; }
+  public int M4() { return 3085; }
+  public int M5() { return 3086; }
+  public int M6() { return 3087; }
+  public int M7() { return 3088; }
+} }

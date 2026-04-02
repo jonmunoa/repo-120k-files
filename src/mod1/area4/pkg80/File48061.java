@@ -1,0 +1,11 @@
+// fichero 48061
+namespace Generated { public class C48061 {
+  public int M0() { return 48061; }
+  public int M1() { return 48062; }
+  public int M2() { return 48063; }
+  public int M3() { return 48064; }
+  public int M4() { return 48065; }
+  public int M5() { return 48066; }
+  public int M6() { return 48067; }
+  public int M7() { return 48068; }
+} }

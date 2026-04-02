@@ -1,0 +1,11 @@
+// fichero 5633
+namespace Generated { public class C5633 {
+  public int M0() { return 5633; }
+  public int M1() { return 5634; }
+  public int M2() { return 5635; }
+  public int M3() { return 5636; }
+  public int M4() { return 5637; }
+  public int M5() { return 5638; }
+  public int M6() { return 5639; }
+  public int M7() { return 5640; }
+} }

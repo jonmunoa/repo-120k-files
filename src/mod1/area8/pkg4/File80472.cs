@@ -1,0 +1,11 @@
+// fichero 80472
+namespace Generated { public class C80472 {
+  public int M0() { return 80472; }
+  public int M1() { return 80473; }
+  public int M2() { return 80474; }
+  public int M3() { return 80475; }
+  public int M4() { return 80476; }
+  public int M5() { return 80477; }
+  public int M6() { return 80478; }
+  public int M7() { return 80479; }
+} }

@@ -1,0 +1,11 @@
+// fichero 574
+namespace Generated { public class C574 {
+  public int M0() { return 574; }
+  public int M1() { return 575; }
+  public int M2() { return 576; }
+  public int M3() { return 577; }
+  public int M4() { return 578; }
+  public int M5() { return 579; }
+  public int M6() { return 580; }
+  public int M7() { return 581; }
+} }

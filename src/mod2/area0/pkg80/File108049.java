@@ -1,0 +1,11 @@
+// fichero 108049
+namespace Generated { public class C108049 {
+  public int M0() { return 108049; }
+  public int M1() { return 108050; }
+  public int M2() { return 108051; }
+  public int M3() { return 108052; }
+  public int M4() { return 108053; }
+  public int M5() { return 108054; }
+  public int M6() { return 108055; }
+  public int M7() { return 108056; }
+} }

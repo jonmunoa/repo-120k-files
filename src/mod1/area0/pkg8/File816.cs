@@ -1,0 +1,11 @@
+// fichero 816
+namespace Generated { public class C816 {
+  public int M0() { return 816; }
+  public int M1() { return 817; }
+  public int M2() { return 818; }
+  public int M3() { return 819; }
+  public int M4() { return 820; }
+  public int M5() { return 821; }
+  public int M6() { return 822; }
+  public int M7() { return 823; }
+} }

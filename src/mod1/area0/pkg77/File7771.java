@@ -1,0 +1,11 @@
+// fichero 7771
+namespace Generated { public class C7771 {
+  public int M0() { return 7771; }
+  public int M1() { return 7772; }
+  public int M2() { return 7773; }
+  public int M3() { return 7774; }
+  public int M4() { return 7775; }
+  public int M5() { return 7776; }
+  public int M6() { return 7777; }
+  public int M7() { return 7778; }
+} }

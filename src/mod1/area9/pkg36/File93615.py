@@ -1,0 +1,11 @@
+// fichero 93615
+namespace Generated { public class C93615 {
+  public int M0() { return 93615; }
+  public int M1() { return 93616; }
+  public int M2() { return 93617; }
+  public int M3() { return 93618; }
+  public int M4() { return 93619; }
+  public int M5() { return 93620; }
+  public int M6() { return 93621; }
+  public int M7() { return 93622; }
+} }

@@ -1,0 +1,11 @@
+// fichero 9051
+namespace Generated { public class C9051 {
+  public int M0() { return 9051; }
+  public int M1() { return 9052; }
+  public int M2() { return 9053; }
+  public int M3() { return 9054; }
+  public int M4() { return 9055; }
+  public int M5() { return 9056; }
+  public int M6() { return 9057; }
+  public int M7() { return 9058; }
+} }

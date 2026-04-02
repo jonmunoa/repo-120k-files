@@ -1,0 +1,11 @@
+// fichero 113
+namespace Generated { public class C113 {
+  public int M0() { return 113; }
+  public int M1() { return 114; }
+  public int M2() { return 115; }
+  public int M3() { return 116; }
+  public int M4() { return 117; }
+  public int M5() { return 118; }
+  public int M6() { return 119; }
+  public int M7() { return 120; }
+} }

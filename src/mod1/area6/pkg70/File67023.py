@@ -1,0 +1,11 @@
+// fichero 67023
+namespace Generated { public class C67023 {
+  public int M0() { return 67023; }
+  public int M1() { return 67024; }
+  public int M2() { return 67025; }
+  public int M3() { return 67026; }
+  public int M4() { return 67027; }
+  public int M5() { return 67028; }
+  public int M6() { return 67029; }
+  public int M7() { return 67030; }
+} }

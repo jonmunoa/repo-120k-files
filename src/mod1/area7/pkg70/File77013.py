@@ -1,0 +1,11 @@
+// fichero 77013
+namespace Generated { public class C77013 {
+  public int M0() { return 77013; }
+  public int M1() { return 77014; }
+  public int M2() { return 77015; }
+  public int M3() { return 77016; }
+  public int M4() { return 77017; }
+  public int M5() { return 77018; }
+  public int M6() { return 77019; }
+  public int M7() { return 77020; }
+} }

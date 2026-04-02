@@ -1,0 +1,11 @@
+// fichero 3161
+namespace Generated { public class C3161 {
+  public int M0() { return 3161; }
+  public int M1() { return 3162; }
+  public int M2() { return 3163; }
+  public int M3() { return 3164; }
+  public int M4() { return 3165; }
+  public int M5() { return 3166; }
+  public int M6() { return 3167; }
+  public int M7() { return 3168; }
+} }

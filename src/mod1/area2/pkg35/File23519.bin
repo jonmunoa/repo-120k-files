@@ -1,0 +1,11 @@
+// fichero 23519
+namespace Generated { public class C23519 {
+  public int M0() { return 23519; }
+  public int M1() { return 23520; }
+  public int M2() { return 23521; }
+  public int M3() { return 23522; }
+  public int M4() { return 23523; }
+  public int M5() { return 23524; }
+  public int M6() { return 23525; }
+  public int M7() { return 23526; }
+} }

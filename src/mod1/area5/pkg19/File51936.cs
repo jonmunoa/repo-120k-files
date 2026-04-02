@@ -1,0 +1,11 @@
+// fichero 51936
+namespace Generated { public class C51936 {
+  public int M0() { return 51936; }
+  public int M1() { return 51937; }
+  public int M2() { return 51938; }
+  public int M3() { return 51939; }
+  public int M4() { return 51940; }
+  public int M5() { return 51941; }
+  public int M6() { return 51942; }
+  public int M7() { return 51943; }
+} }

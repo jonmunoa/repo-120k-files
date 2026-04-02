@@ -1,0 +1,11 @@
+// fichero 43005
+namespace Generated { public class C43005 {
+  public int M0() { return 43005; }
+  public int M1() { return 43006; }
+  public int M2() { return 43007; }
+  public int M3() { return 43008; }
+  public int M4() { return 43009; }
+  public int M5() { return 43010; }
+  public int M6() { return 43011; }
+  public int M7() { return 43012; }
+} }

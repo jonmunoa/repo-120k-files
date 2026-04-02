@@ -1,0 +1,11 @@
+// fichero 375
+namespace Generated { public class C375 {
+  public int M0() { return 375; }
+  public int M1() { return 376; }
+  public int M2() { return 377; }
+  public int M3() { return 378; }
+  public int M4() { return 379; }
+  public int M5() { return 380; }
+  public int M6() { return 381; }
+  public int M7() { return 382; }
+} }

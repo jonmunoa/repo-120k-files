@@ -1,0 +1,11 @@
+// fichero 21439
+namespace Generated { public class C21439 {
+  public int M0() { return 21439; }
+  public int M1() { return 21440; }
+  public int M2() { return 21441; }
+  public int M3() { return 21442; }
+  public int M4() { return 21443; }
+  public int M5() { return 21444; }
+  public int M6() { return 21445; }
+  public int M7() { return 21446; }
+} }

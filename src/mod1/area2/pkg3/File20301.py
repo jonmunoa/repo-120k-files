@@ -1,0 +1,11 @@
+// fichero 20301
+namespace Generated { public class C20301 {
+  public int M0() { return 20301; }
+  public int M1() { return 20302; }
+  public int M2() { return 20303; }
+  public int M3() { return 20304; }
+  public int M4() { return 20305; }
+  public int M5() { return 20306; }
+  public int M6() { return 20307; }
+  public int M7() { return 20308; }
+} }

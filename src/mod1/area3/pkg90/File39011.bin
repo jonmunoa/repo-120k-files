@@ -1,0 +1,11 @@
+// fichero 39011
+namespace Generated { public class C39011 {
+  public int M0() { return 39011; }
+  public int M1() { return 39012; }
+  public int M2() { return 39013; }
+  public int M3() { return 39014; }
+  public int M4() { return 39015; }
+  public int M5() { return 39016; }
+  public int M6() { return 39017; }
+  public int M7() { return 39018; }
+} }

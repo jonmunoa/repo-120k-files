@@ -1,0 +1,11 @@
+// fichero 50007
+namespace Generated { public class C50007 {
+  public int M0() { return 50007; }
+  public int M1() { return 50008; }
+  public int M2() { return 50009; }
+  public int M3() { return 50010; }
+  public int M4() { return 50011; }
+  public int M5() { return 50012; }
+  public int M6() { return 50013; }
+  public int M7() { return 50014; }
+} }

@@ -1,0 +1,11 @@
+// fichero 66888
+namespace Generated { public class C66888 {
+  public int M0() { return 66888; }
+  public int M1() { return 66889; }
+  public int M2() { return 66890; }
+  public int M3() { return 66891; }
+  public int M4() { return 66892; }
+  public int M5() { return 66893; }
+  public int M6() { return 66894; }
+  public int M7() { return 66895; }
+} }

@@ -1,0 +1,11 @@
+// fichero 70713
+namespace Generated { public class C70713 {
+  public int M0() { return 70713; }
+  public int M1() { return 70714; }
+  public int M2() { return 70715; }
+  public int M3() { return 70716; }
+  public int M4() { return 70717; }
+  public int M5() { return 70718; }
+  public int M6() { return 70719; }
+  public int M7() { return 70720; }
+} }

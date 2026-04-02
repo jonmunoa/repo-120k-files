@@ -1,0 +1,11 @@
+// fichero 60014
+namespace Generated { public class C60014 {
+  public int M0() { return 60014; }
+  public int M1() { return 60015; }
+  public int M2() { return 60016; }
+  public int M3() { return 60017; }
+  public int M4() { return 60018; }
+  public int M5() { return 60019; }
+  public int M6() { return 60020; }
+  public int M7() { return 60021; }
+} }

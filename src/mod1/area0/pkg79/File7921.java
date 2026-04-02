@@ -1,0 +1,11 @@
+// fichero 7921
+namespace Generated { public class C7921 {
+  public int M0() { return 7921; }
+  public int M1() { return 7922; }
+  public int M2() { return 7923; }
+  public int M3() { return 7924; }
+  public int M4() { return 7925; }
+  public int M5() { return 7926; }
+  public int M6() { return 7927; }
+  public int M7() { return 7928; }
+} }

@@ -1,0 +1,11 @@
+// fichero 108264
+namespace Generated { public class C108264 {
+  public int M0() { return 108264; }
+  public int M1() { return 108265; }
+  public int M2() { return 108266; }
+  public int M3() { return 108267; }
+  public int M4() { return 108268; }
+  public int M5() { return 108269; }
+  public int M6() { return 108270; }
+  public int M7() { return 108271; }
+} }

@@ -1,0 +1,11 @@
+// fichero 3198
+namespace Generated { public class C3198 {
+  public int M0() { return 3198; }
+  public int M1() { return 3199; }
+  public int M2() { return 3200; }
+  public int M3() { return 3201; }
+  public int M4() { return 3202; }
+  public int M5() { return 3203; }
+  public int M6() { return 3204; }
+  public int M7() { return 3205; }
+} }

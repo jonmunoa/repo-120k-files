@@ -1,0 +1,11 @@
+// fichero 911
+namespace Generated { public class C911 {
+  public int M0() { return 911; }
+  public int M1() { return 912; }
+  public int M2() { return 913; }
+  public int M3() { return 914; }
+  public int M4() { return 915; }
+  public int M5() { return 916; }
+  public int M6() { return 917; }
+  public int M7() { return 918; }
+} }

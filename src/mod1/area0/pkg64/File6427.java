@@ -1,0 +1,11 @@
+// fichero 6427
+namespace Generated { public class C6427 {
+  public int M0() { return 6427; }
+  public int M1() { return 6428; }
+  public int M2() { return 6429; }
+  public int M3() { return 6430; }
+  public int M4() { return 6431; }
+  public int M5() { return 6432; }
+  public int M6() { return 6433; }
+  public int M7() { return 6434; }
+} }

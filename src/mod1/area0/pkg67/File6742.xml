@@ -1,0 +1,11 @@
+// fichero 6742
+namespace Generated { public class C6742 {
+  public int M0() { return 6742; }
+  public int M1() { return 6743; }
+  public int M2() { return 6744; }
+  public int M3() { return 6745; }
+  public int M4() { return 6746; }
+  public int M5() { return 6747; }
+  public int M6() { return 6748; }
+  public int M7() { return 6749; }
+} }

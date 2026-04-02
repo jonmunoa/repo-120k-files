@@ -1,0 +1,11 @@
+// fichero 3211
+namespace Generated { public class C3211 {
+  public int M0() { return 3211; }
+  public int M1() { return 3212; }
+  public int M2() { return 3213; }
+  public int M3() { return 3214; }
+  public int M4() { return 3215; }
+  public int M5() { return 3216; }
+  public int M6() { return 3217; }
+  public int M7() { return 3218; }
+} }

@@ -1,0 +1,11 @@
+// fichero 64374
+namespace Generated { public class C64374 {
+  public int M0() { return 64374; }
+  public int M1() { return 64375; }
+  public int M2() { return 64376; }
+  public int M3() { return 64377; }
+  public int M4() { return 64378; }
+  public int M5() { return 64379; }
+  public int M6() { return 64380; }
+  public int M7() { return 64381; }
+} }

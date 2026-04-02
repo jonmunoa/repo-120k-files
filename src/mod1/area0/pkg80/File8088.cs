@@ -1,0 +1,11 @@
+// fichero 8088
+namespace Generated { public class C8088 {
+  public int M0() { return 8088; }
+  public int M1() { return 8089; }
+  public int M2() { return 8090; }
+  public int M3() { return 8091; }
+  public int M4() { return 8092; }
+  public int M5() { return 8093; }
+  public int M6() { return 8094; }
+  public int M7() { return 8095; }
+} }

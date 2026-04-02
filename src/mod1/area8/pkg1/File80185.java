@@ -1,0 +1,11 @@
+// fichero 80185
+namespace Generated { public class C80185 {
+  public int M0() { return 80185; }
+  public int M1() { return 80186; }
+  public int M2() { return 80187; }
+  public int M3() { return 80188; }
+  public int M4() { return 80189; }
+  public int M5() { return 80190; }
+  public int M6() { return 80191; }
+  public int M7() { return 80192; }
+} }

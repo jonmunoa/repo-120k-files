@@ -1,0 +1,11 @@
+// fichero 46416
+namespace Generated { public class C46416 {
+  public int M0() { return 46416; }
+  public int M1() { return 46417; }
+  public int M2() { return 46418; }
+  public int M3() { return 46419; }
+  public int M4() { return 46420; }
+  public int M5() { return 46421; }
+  public int M6() { return 46422; }
+  public int M7() { return 46423; }
+} }

@@ -1,0 +1,11 @@
+// fichero 985
+namespace Generated { public class C985 {
+  public int M0() { return 985; }
+  public int M1() { return 986; }
+  public int M2() { return 987; }
+  public int M3() { return 988; }
+  public int M4() { return 989; }
+  public int M5() { return 990; }
+  public int M6() { return 991; }
+  public int M7() { return 992; }
+} }

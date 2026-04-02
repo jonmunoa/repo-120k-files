@@ -1,0 +1,11 @@
+// fichero 72398
+namespace Generated { public class C72398 {
+  public int M0() { return 72398; }
+  public int M1() { return 72399; }
+  public int M2() { return 72400; }
+  public int M3() { return 72401; }
+  public int M4() { return 72402; }
+  public int M5() { return 72403; }
+  public int M6() { return 72404; }
+  public int M7() { return 72405; }
+} }

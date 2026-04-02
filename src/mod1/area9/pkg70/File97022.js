@@ -1,0 +1,11 @@
+// fichero 97022
+namespace Generated { public class C97022 {
+  public int M0() { return 97022; }
+  public int M1() { return 97023; }
+  public int M2() { return 97024; }
+  public int M3() { return 97025; }
+  public int M4() { return 97026; }
+  public int M5() { return 97027; }
+  public int M6() { return 97028; }
+  public int M7() { return 97029; }
+} }

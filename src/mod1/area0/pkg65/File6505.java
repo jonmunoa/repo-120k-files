@@ -1,0 +1,11 @@
+// fichero 6505
+namespace Generated { public class C6505 {
+  public int M0() { return 6505; }
+  public int M1() { return 6506; }
+  public int M2() { return 6507; }
+  public int M3() { return 6508; }
+  public int M4() { return 6509; }
+  public int M5() { return 6510; }
+  public int M6() { return 6511; }
+  public int M7() { return 6512; }
+} }

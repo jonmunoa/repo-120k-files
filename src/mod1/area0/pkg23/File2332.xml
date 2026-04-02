@@ -1,0 +1,11 @@
+// fichero 2332
+namespace Generated { public class C2332 {
+  public int M0() { return 2332; }
+  public int M1() { return 2333; }
+  public int M2() { return 2334; }
+  public int M3() { return 2335; }
+  public int M4() { return 2336; }
+  public int M5() { return 2337; }
+  public int M6() { return 2338; }
+  public int M7() { return 2339; }
+} }

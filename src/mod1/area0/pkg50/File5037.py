@@ -1,0 +1,11 @@
+// fichero 5037
+namespace Generated { public class C5037 {
+  public int M0() { return 5037; }
+  public int M1() { return 5038; }
+  public int M2() { return 5039; }
+  public int M3() { return 5040; }
+  public int M4() { return 5041; }
+  public int M5() { return 5042; }
+  public int M6() { return 5043; }
+  public int M7() { return 5044; }
+} }

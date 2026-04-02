@@ -1,0 +1,11 @@
+// fichero 53923
+namespace Generated { public class C53923 {
+  public int M0() { return 53923; }
+  public int M1() { return 53924; }
+  public int M2() { return 53925; }
+  public int M3() { return 53926; }
+  public int M4() { return 53927; }
+  public int M5() { return 53928; }
+  public int M6() { return 53929; }
+  public int M7() { return 53930; }
+} }

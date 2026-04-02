@@ -1,0 +1,11 @@
+// fichero 37237
+namespace Generated { public class C37237 {
+  public int M0() { return 37237; }
+  public int M1() { return 37238; }
+  public int M2() { return 37239; }
+  public int M3() { return 37240; }
+  public int M4() { return 37241; }
+  public int M5() { return 37242; }
+  public int M6() { return 37243; }
+  public int M7() { return 37244; }
+} }

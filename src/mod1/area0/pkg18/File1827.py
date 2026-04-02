@@ -1,0 +1,11 @@
+// fichero 1827
+namespace Generated { public class C1827 {
+  public int M0() { return 1827; }
+  public int M1() { return 1828; }
+  public int M2() { return 1829; }
+  public int M3() { return 1830; }
+  public int M4() { return 1831; }
+  public int M5() { return 1832; }
+  public int M6() { return 1833; }
+  public int M7() { return 1834; }
+} }

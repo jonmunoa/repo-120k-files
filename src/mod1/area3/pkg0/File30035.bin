@@ -1,0 +1,11 @@
+// fichero 30035
+namespace Generated { public class C30035 {
+  public int M0() { return 30035; }
+  public int M1() { return 30036; }
+  public int M2() { return 30037; }
+  public int M3() { return 30038; }
+  public int M4() { return 30039; }
+  public int M5() { return 30040; }
+  public int M6() { return 30041; }
+  public int M7() { return 30042; }
+} }

@@ -1,0 +1,11 @@
+// fichero 41001
+namespace Generated { public class C41001 {
+  public int M0() { return 41001; }
+  public int M1() { return 41002; }
+  public int M2() { return 41003; }
+  public int M3() { return 41004; }
+  public int M4() { return 41005; }
+  public int M5() { return 41006; }
+  public int M6() { return 41007; }
+  public int M7() { return 41008; }
+} }

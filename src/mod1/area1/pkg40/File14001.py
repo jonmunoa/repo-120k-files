@@ -1,0 +1,11 @@
+// fichero 14001
+namespace Generated { public class C14001 {
+  public int M0() { return 14001; }
+  public int M1() { return 14002; }
+  public int M2() { return 14003; }
+  public int M3() { return 14004; }
+  public int M4() { return 14005; }
+  public int M5() { return 14006; }
+  public int M6() { return 14007; }
+  public int M7() { return 14008; }
+} }

@@ -1,0 +1,11 @@
+// fichero 646
+namespace Generated { public class C646 {
+  public int M0() { return 646; }
+  public int M1() { return 647; }
+  public int M2() { return 648; }
+  public int M3() { return 649; }
+  public int M4() { return 650; }
+  public int M5() { return 651; }
+  public int M6() { return 652; }
+  public int M7() { return 653; }
+} }

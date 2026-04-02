@@ -1,0 +1,11 @@
+// fichero 26524
+namespace Generated { public class C26524 {
+  public int M0() { return 26524; }
+  public int M1() { return 26525; }
+  public int M2() { return 26526; }
+  public int M3() { return 26527; }
+  public int M4() { return 26528; }
+  public int M5() { return 26529; }
+  public int M6() { return 26530; }
+  public int M7() { return 26531; }
+} }

@@ -1,0 +1,11 @@
+// fichero 17502
+namespace Generated { public class C17502 {
+  public int M0() { return 17502; }
+  public int M1() { return 17503; }
+  public int M2() { return 17504; }
+  public int M3() { return 17505; }
+  public int M4() { return 17506; }
+  public int M5() { return 17507; }
+  public int M6() { return 17508; }
+  public int M7() { return 17509; }
+} }

@@ -1,0 +1,11 @@
+// fichero 62243
+namespace Generated { public class C62243 {
+  public int M0() { return 62243; }
+  public int M1() { return 62244; }
+  public int M2() { return 62245; }
+  public int M3() { return 62246; }
+  public int M4() { return 62247; }
+  public int M5() { return 62248; }
+  public int M6() { return 62249; }
+  public int M7() { return 62250; }
+} }

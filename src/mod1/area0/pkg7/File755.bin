@@ -1,0 +1,11 @@
+// fichero 755
+namespace Generated { public class C755 {
+  public int M0() { return 755; }
+  public int M1() { return 756; }
+  public int M2() { return 757; }
+  public int M3() { return 758; }
+  public int M4() { return 759; }
+  public int M5() { return 760; }
+  public int M6() { return 761; }
+  public int M7() { return 762; }
+} }

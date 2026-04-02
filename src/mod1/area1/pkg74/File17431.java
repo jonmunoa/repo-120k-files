@@ -1,0 +1,11 @@
+// fichero 17431
+namespace Generated { public class C17431 {
+  public int M0() { return 17431; }
+  public int M1() { return 17432; }
+  public int M2() { return 17433; }
+  public int M3() { return 17434; }
+  public int M4() { return 17435; }
+  public int M5() { return 17436; }
+  public int M6() { return 17437; }
+  public int M7() { return 17438; }
+} }

@@ -1,0 +1,11 @@
+// fichero 6644
+namespace Generated { public class C6644 {
+  public int M0() { return 6644; }
+  public int M1() { return 6645; }
+  public int M2() { return 6646; }
+  public int M3() { return 6647; }
+  public int M4() { return 6648; }
+  public int M5() { return 6649; }
+  public int M6() { return 6650; }
+  public int M7() { return 6651; }
+} }

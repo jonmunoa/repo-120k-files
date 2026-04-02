@@ -1,0 +1,11 @@
+// fichero 119216
+namespace Generated { public class C119216 {
+  public int M0() { return 119216; }
+  public int M1() { return 119217; }
+  public int M2() { return 119218; }
+  public int M3() { return 119219; }
+  public int M4() { return 119220; }
+  public int M5() { return 119221; }
+  public int M6() { return 119222; }
+  public int M7() { return 119223; }
+} }

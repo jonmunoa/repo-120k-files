@@ -1,0 +1,11 @@
+// fichero 9112
+namespace Generated { public class C9112 {
+  public int M0() { return 9112; }
+  public int M1() { return 9113; }
+  public int M2() { return 9114; }
+  public int M3() { return 9115; }
+  public int M4() { return 9116; }
+  public int M5() { return 9117; }
+  public int M6() { return 9118; }
+  public int M7() { return 9119; }
+} }

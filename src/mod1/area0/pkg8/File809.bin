@@ -1,0 +1,11 @@
+// fichero 809
+namespace Generated { public class C809 {
+  public int M0() { return 809; }
+  public int M1() { return 810; }
+  public int M2() { return 811; }
+  public int M3() { return 812; }
+  public int M4() { return 813; }
+  public int M5() { return 814; }
+  public int M6() { return 815; }
+  public int M7() { return 816; }
+} }

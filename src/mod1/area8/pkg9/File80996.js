@@ -1,0 +1,11 @@
+// fichero 80996
+namespace Generated { public class C80996 {
+  public int M0() { return 80996; }
+  public int M1() { return 80997; }
+  public int M2() { return 80998; }
+  public int M3() { return 80999; }
+  public int M4() { return 81000; }
+  public int M5() { return 81001; }
+  public int M6() { return 81002; }
+  public int M7() { return 81003; }
+} }

@@ -1,0 +1,11 @@
+// fichero 21013
+namespace Generated { public class C21013 {
+  public int M0() { return 21013; }
+  public int M1() { return 21014; }
+  public int M2() { return 21015; }
+  public int M3() { return 21016; }
+  public int M4() { return 21017; }
+  public int M5() { return 21018; }
+  public int M6() { return 21019; }
+  public int M7() { return 21020; }
+} }

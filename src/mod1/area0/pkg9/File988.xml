@@ -1,0 +1,11 @@
+// fichero 988
+namespace Generated { public class C988 {
+  public int M0() { return 988; }
+  public int M1() { return 989; }
+  public int M2() { return 990; }
+  public int M3() { return 991; }
+  public int M4() { return 992; }
+  public int M5() { return 993; }
+  public int M6() { return 994; }
+  public int M7() { return 995; }
+} }

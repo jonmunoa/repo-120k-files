@@ -1,0 +1,11 @@
+// fichero 3326
+namespace Generated { public class C3326 {
+  public int M0() { return 3326; }
+  public int M1() { return 3327; }
+  public int M2() { return 3328; }
+  public int M3() { return 3329; }
+  public int M4() { return 3330; }
+  public int M5() { return 3331; }
+  public int M6() { return 3332; }
+  public int M7() { return 3333; }
+} }

@@ -1,0 +1,11 @@
+// fichero 10946
+namespace Generated { public class C10946 {
+  public int M0() { return 10946; }
+  public int M1() { return 10947; }
+  public int M2() { return 10948; }
+  public int M3() { return 10949; }
+  public int M4() { return 10950; }
+  public int M5() { return 10951; }
+  public int M6() { return 10952; }
+  public int M7() { return 10953; }
+} }

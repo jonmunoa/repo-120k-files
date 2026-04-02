@@ -1,0 +1,11 @@
+// fichero 923
+namespace Generated { public class C923 {
+  public int M0() { return 923; }
+  public int M1() { return 924; }
+  public int M2() { return 925; }
+  public int M3() { return 926; }
+  public int M4() { return 927; }
+  public int M5() { return 928; }
+  public int M6() { return 929; }
+  public int M7() { return 930; }
+} }

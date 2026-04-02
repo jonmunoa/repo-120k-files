@@ -1,0 +1,11 @@
+// fichero 80171
+namespace Generated { public class C80171 {
+  public int M0() { return 80171; }
+  public int M1() { return 80172; }
+  public int M2() { return 80173; }
+  public int M3() { return 80174; }
+  public int M4() { return 80175; }
+  public int M5() { return 80176; }
+  public int M6() { return 80177; }
+  public int M7() { return 80178; }
+} }

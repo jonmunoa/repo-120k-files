@@ -1,0 +1,11 @@
+// fichero 3957
+namespace Generated { public class C3957 {
+  public int M0() { return 3957; }
+  public int M1() { return 3958; }
+  public int M2() { return 3959; }
+  public int M3() { return 3960; }
+  public int M4() { return 3961; }
+  public int M5() { return 3962; }
+  public int M6() { return 3963; }
+  public int M7() { return 3964; }
+} }

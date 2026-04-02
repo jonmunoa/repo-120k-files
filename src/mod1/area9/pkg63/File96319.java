@@ -1,0 +1,11 @@
+// fichero 96319
+namespace Generated { public class C96319 {
+  public int M0() { return 96319; }
+  public int M1() { return 96320; }
+  public int M2() { return 96321; }
+  public int M3() { return 96322; }
+  public int M4() { return 96323; }
+  public int M5() { return 96324; }
+  public int M6() { return 96325; }
+  public int M7() { return 96326; }
+} }

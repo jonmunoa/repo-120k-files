@@ -1,0 +1,11 @@
+// fichero 461
+namespace Generated { public class C461 {
+  public int M0() { return 461; }
+  public int M1() { return 462; }
+  public int M2() { return 463; }
+  public int M3() { return 464; }
+  public int M4() { return 465; }
+  public int M5() { return 466; }
+  public int M6() { return 467; }
+  public int M7() { return 468; }
+} }

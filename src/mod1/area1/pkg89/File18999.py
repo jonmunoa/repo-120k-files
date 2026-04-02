@@ -1,0 +1,11 @@
+// fichero 18999
+namespace Generated { public class C18999 {
+  public int M0() { return 18999; }
+  public int M1() { return 19000; }
+  public int M2() { return 19001; }
+  public int M3() { return 19002; }
+  public int M4() { return 19003; }
+  public int M5() { return 19004; }
+  public int M6() { return 19005; }
+  public int M7() { return 19006; }
+} }

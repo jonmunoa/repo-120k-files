@@ -1,0 +1,11 @@
+// fichero 19015
+namespace Generated { public class C19015 {
+  public int M0() { return 19015; }
+  public int M1() { return 19016; }
+  public int M2() { return 19017; }
+  public int M3() { return 19018; }
+  public int M4() { return 19019; }
+  public int M5() { return 19020; }
+  public int M6() { return 19021; }
+  public int M7() { return 19022; }
+} }

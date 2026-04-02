@@ -1,0 +1,11 @@
+// fichero 73941
+namespace Generated { public class C73941 {
+  public int M0() { return 73941; }
+  public int M1() { return 73942; }
+  public int M2() { return 73943; }
+  public int M3() { return 73944; }
+  public int M4() { return 73945; }
+  public int M5() { return 73946; }
+  public int M6() { return 73947; }
+  public int M7() { return 73948; }
+} }

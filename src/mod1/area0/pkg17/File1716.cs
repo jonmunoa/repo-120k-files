@@ -1,0 +1,11 @@
+// fichero 1716
+namespace Generated { public class C1716 {
+  public int M0() { return 1716; }
+  public int M1() { return 1717; }
+  public int M2() { return 1718; }
+  public int M3() { return 1719; }
+  public int M4() { return 1720; }
+  public int M5() { return 1721; }
+  public int M6() { return 1722; }
+  public int M7() { return 1723; }
+} }

@@ -1,0 +1,11 @@
+// fichero 9103
+namespace Generated { public class C9103 {
+  public int M0() { return 9103; }
+  public int M1() { return 9104; }
+  public int M2() { return 9105; }
+  public int M3() { return 9106; }
+  public int M4() { return 9107; }
+  public int M5() { return 9108; }
+  public int M6() { return 9109; }
+  public int M7() { return 9110; }
+} }

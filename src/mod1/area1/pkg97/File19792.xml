@@ -1,0 +1,11 @@
+// fichero 19792
+namespace Generated { public class C19792 {
+  public int M0() { return 19792; }
+  public int M1() { return 19793; }
+  public int M2() { return 19794; }
+  public int M3() { return 19795; }
+  public int M4() { return 19796; }
+  public int M5() { return 19797; }
+  public int M6() { return 19798; }
+  public int M7() { return 19799; }
+} }

@@ -1,0 +1,11 @@
+// fichero 97019
+namespace Generated { public class C97019 {
+  public int M0() { return 97019; }
+  public int M1() { return 97020; }
+  public int M2() { return 97021; }
+  public int M3() { return 97022; }
+  public int M4() { return 97023; }
+  public int M5() { return 97024; }
+  public int M6() { return 97025; }
+  public int M7() { return 97026; }
+} }

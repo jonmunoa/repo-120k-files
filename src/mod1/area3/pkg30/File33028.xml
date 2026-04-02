@@ -1,0 +1,11 @@
+// fichero 33028
+namespace Generated { public class C33028 {
+  public int M0() { return 33028; }
+  public int M1() { return 33029; }
+  public int M2() { return 33030; }
+  public int M3() { return 33031; }
+  public int M4() { return 33032; }
+  public int M5() { return 33033; }
+  public int M6() { return 33034; }
+  public int M7() { return 33035; }
+} }

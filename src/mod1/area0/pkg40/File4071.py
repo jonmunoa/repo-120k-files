@@ -1,0 +1,11 @@
+// fichero 4071
+namespace Generated { public class C4071 {
+  public int M0() { return 4071; }
+  public int M1() { return 4072; }
+  public int M2() { return 4073; }
+  public int M3() { return 4074; }
+  public int M4() { return 4075; }
+  public int M5() { return 4076; }
+  public int M6() { return 4077; }
+  public int M7() { return 4078; }
+} }

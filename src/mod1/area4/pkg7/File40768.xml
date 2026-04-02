@@ -1,0 +1,11 @@
+// fichero 40768
+namespace Generated { public class C40768 {
+  public int M0() { return 40768; }
+  public int M1() { return 40769; }
+  public int M2() { return 40770; }
+  public int M3() { return 40771; }
+  public int M4() { return 40772; }
+  public int M5() { return 40773; }
+  public int M6() { return 40774; }
+  public int M7() { return 40775; }
+} }

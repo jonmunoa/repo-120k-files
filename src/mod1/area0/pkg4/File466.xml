@@ -1,0 +1,11 @@
+// fichero 466
+namespace Generated { public class C466 {
+  public int M0() { return 466; }
+  public int M1() { return 467; }
+  public int M2() { return 468; }
+  public int M3() { return 469; }
+  public int M4() { return 470; }
+  public int M5() { return 471; }
+  public int M6() { return 472; }
+  public int M7() { return 473; }
+} }

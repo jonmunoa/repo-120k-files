@@ -1,0 +1,11 @@
+// fichero 87763
+namespace Generated { public class C87763 {
+  public int M0() { return 87763; }
+  public int M1() { return 87764; }
+  public int M2() { return 87765; }
+  public int M3() { return 87766; }
+  public int M4() { return 87767; }
+  public int M5() { return 87768; }
+  public int M6() { return 87769; }
+  public int M7() { return 87770; }
+} }

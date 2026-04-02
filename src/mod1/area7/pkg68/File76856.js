@@ -1,0 +1,11 @@
+// fichero 76856
+namespace Generated { public class C76856 {
+  public int M0() { return 76856; }
+  public int M1() { return 76857; }
+  public int M2() { return 76858; }
+  public int M3() { return 76859; }
+  public int M4() { return 76860; }
+  public int M5() { return 76861; }
+  public int M6() { return 76862; }
+  public int M7() { return 76863; }
+} }

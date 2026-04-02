@@ -1,0 +1,11 @@
+// fichero 71061
+namespace Generated { public class C71061 {
+  public int M0() { return 71061; }
+  public int M1() { return 71062; }
+  public int M2() { return 71063; }
+  public int M3() { return 71064; }
+  public int M4() { return 71065; }
+  public int M5() { return 71066; }
+  public int M6() { return 71067; }
+  public int M7() { return 71068; }
+} }

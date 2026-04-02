@@ -1,0 +1,11 @@
+// fichero 64251
+namespace Generated { public class C64251 {
+  public int M0() { return 64251; }
+  public int M1() { return 64252; }
+  public int M2() { return 64253; }
+  public int M3() { return 64254; }
+  public int M4() { return 64255; }
+  public int M5() { return 64256; }
+  public int M6() { return 64257; }
+  public int M7() { return 64258; }
+} }

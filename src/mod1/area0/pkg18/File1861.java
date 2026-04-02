@@ -1,0 +1,11 @@
+// fichero 1861
+namespace Generated { public class C1861 {
+  public int M0() { return 1861; }
+  public int M1() { return 1862; }
+  public int M2() { return 1863; }
+  public int M3() { return 1864; }
+  public int M4() { return 1865; }
+  public int M5() { return 1866; }
+  public int M6() { return 1867; }
+  public int M7() { return 1868; }
+} }

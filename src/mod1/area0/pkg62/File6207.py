@@ -1,0 +1,11 @@
+// fichero 6207
+namespace Generated { public class C6207 {
+  public int M0() { return 6207; }
+  public int M1() { return 6208; }
+  public int M2() { return 6209; }
+  public int M3() { return 6210; }
+  public int M4() { return 6211; }
+  public int M5() { return 6212; }
+  public int M6() { return 6213; }
+  public int M7() { return 6214; }
+} }

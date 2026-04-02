@@ -1,0 +1,11 @@
+// fichero 935
+namespace Generated { public class C935 {
+  public int M0() { return 935; }
+  public int M1() { return 936; }
+  public int M2() { return 937; }
+  public int M3() { return 938; }
+  public int M4() { return 939; }
+  public int M5() { return 940; }
+  public int M6() { return 941; }
+  public int M7() { return 942; }
+} }

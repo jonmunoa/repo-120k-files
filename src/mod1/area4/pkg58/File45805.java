@@ -1,0 +1,11 @@
+// fichero 45805
+namespace Generated { public class C45805 {
+  public int M0() { return 45805; }
+  public int M1() { return 45806; }
+  public int M2() { return 45807; }
+  public int M3() { return 45808; }
+  public int M4() { return 45809; }
+  public int M5() { return 45810; }
+  public int M6() { return 45811; }
+  public int M7() { return 45812; }
+} }

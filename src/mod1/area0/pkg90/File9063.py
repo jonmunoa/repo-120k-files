@@ -1,0 +1,11 @@
+// fichero 9063
+namespace Generated { public class C9063 {
+  public int M0() { return 9063; }
+  public int M1() { return 9064; }
+  public int M2() { return 9065; }
+  public int M3() { return 9066; }
+  public int M4() { return 9067; }
+  public int M5() { return 9068; }
+  public int M6() { return 9069; }
+  public int M7() { return 9070; }
+} }

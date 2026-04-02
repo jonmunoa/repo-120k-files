@@ -1,0 +1,11 @@
+// fichero 90435
+namespace Generated { public class C90435 {
+  public int M0() { return 90435; }
+  public int M1() { return 90436; }
+  public int M2() { return 90437; }
+  public int M3() { return 90438; }
+  public int M4() { return 90439; }
+  public int M5() { return 90440; }
+  public int M6() { return 90441; }
+  public int M7() { return 90442; }
+} }

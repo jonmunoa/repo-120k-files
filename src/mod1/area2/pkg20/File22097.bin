@@ -1,0 +1,11 @@
+// fichero 22097
+namespace Generated { public class C22097 {
+  public int M0() { return 22097; }
+  public int M1() { return 22098; }
+  public int M2() { return 22099; }
+  public int M3() { return 22100; }
+  public int M4() { return 22101; }
+  public int M5() { return 22102; }
+  public int M6() { return 22103; }
+  public int M7() { return 22104; }
+} }

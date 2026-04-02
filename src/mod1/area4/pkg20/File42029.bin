@@ -1,0 +1,11 @@
+// fichero 42029
+namespace Generated { public class C42029 {
+  public int M0() { return 42029; }
+  public int M1() { return 42030; }
+  public int M2() { return 42031; }
+  public int M3() { return 42032; }
+  public int M4() { return 42033; }
+  public int M5() { return 42034; }
+  public int M6() { return 42035; }
+  public int M7() { return 42036; }
+} }

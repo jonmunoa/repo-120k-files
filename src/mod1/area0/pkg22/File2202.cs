@@ -1,0 +1,11 @@
+// fichero 2202
+namespace Generated { public class C2202 {
+  public int M0() { return 2202; }
+  public int M1() { return 2203; }
+  public int M2() { return 2204; }
+  public int M3() { return 2205; }
+  public int M4() { return 2206; }
+  public int M5() { return 2207; }
+  public int M6() { return 2208; }
+  public int M7() { return 2209; }
+} }

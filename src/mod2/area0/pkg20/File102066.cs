@@ -1,0 +1,11 @@
+// fichero 102066
+namespace Generated { public class C102066 {
+  public int M0() { return 102066; }
+  public int M1() { return 102067; }
+  public int M2() { return 102068; }
+  public int M3() { return 102069; }
+  public int M4() { return 102070; }
+  public int M5() { return 102071; }
+  public int M6() { return 102072; }
+  public int M7() { return 102073; }
+} }

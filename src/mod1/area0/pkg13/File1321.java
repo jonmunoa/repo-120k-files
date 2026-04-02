@@ -1,0 +1,11 @@
+// fichero 1321
+namespace Generated { public class C1321 {
+  public int M0() { return 1321; }
+  public int M1() { return 1322; }
+  public int M2() { return 1323; }
+  public int M3() { return 1324; }
+  public int M4() { return 1325; }
+  public int M5() { return 1326; }
+  public int M6() { return 1327; }
+  public int M7() { return 1328; }
+} }

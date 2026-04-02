@@ -1,0 +1,11 @@
+// fichero 36717
+namespace Generated { public class C36717 {
+  public int M0() { return 36717; }
+  public int M1() { return 36718; }
+  public int M2() { return 36719; }
+  public int M3() { return 36720; }
+  public int M4() { return 36721; }
+  public int M5() { return 36722; }
+  public int M6() { return 36723; }
+  public int M7() { return 36724; }
+} }

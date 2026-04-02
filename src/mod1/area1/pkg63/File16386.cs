@@ -1,0 +1,11 @@
+// fichero 16386
+namespace Generated { public class C16386 {
+  public int M0() { return 16386; }
+  public int M1() { return 16387; }
+  public int M2() { return 16388; }
+  public int M3() { return 16389; }
+  public int M4() { return 16390; }
+  public int M5() { return 16391; }
+  public int M6() { return 16392; }
+  public int M7() { return 16393; }
+} }
