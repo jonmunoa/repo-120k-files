@@ -1,2 +1,2 @@
-// bloque compartido
-public class Shared { public int Value() { return 42; } }
+// modificado en commit 2, fichero 0
+public class Mod0 { }
