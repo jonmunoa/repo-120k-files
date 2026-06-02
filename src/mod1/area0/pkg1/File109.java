@@ -1,11 +1,2 @@
-// fichero 109
-namespace Generated { public class C109 {
-  public int M0() { return 109; }
-  public int M1() { return 110; }
-  public int M2() { return 111; }
-  public int M3() { return 112; }
-  public int M4() { return 113; }
-  public int M5() { return 114; }
-  public int M6() { return 115; }
-  public int M7() { return 116; }
-} }
+// modificado en commit 3, fichero 9
+public class Mod3_9 { }
