@@ -1,0 +1,2 @@
+// volumen cs, fichero 7306
+public class VolumeFile7306 { public int Value() { return 7306; } }

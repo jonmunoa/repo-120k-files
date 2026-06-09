@@ -1,0 +1,2 @@
+// volumen js, fichero 25801
+function volumeFile25801() { return 25801; }

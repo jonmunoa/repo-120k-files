@@ -1,0 +1,2 @@
+// volumen java, fichero 31509
+public class VolumeFile31509 { public int value() { return 31509; } }
