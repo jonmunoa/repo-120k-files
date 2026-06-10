@@ -1,2 +1,2 @@
-// volumen java, fichero 24746
-public class VolumeFile24746 { public int value() { return 24746; } }
+// volumen java, fichero 24746 -- MODIFICADO en commit tocho
+public class VolumeFile24746 { public int value() { return 24746 + 1; } }

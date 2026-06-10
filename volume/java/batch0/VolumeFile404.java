@@ -1,2 +1,2 @@
-// volumen java, fichero 404
-public class VolumeFile404 { public int value() { return 404; } }
+// volumen java, fichero 404 -- MODIFICADO en commit tocho
+public class VolumeFile404 { public int value() { return 404 + 1; } }
