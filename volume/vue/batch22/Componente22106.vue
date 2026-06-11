@@ -1,0 +1,6 @@
+<template>
+  <ul class="lista-22106">
+    <li>elemento 0 de 22106</li>
+    <li>elemento 1 de 22106</li>
+  </ul>
+</template>

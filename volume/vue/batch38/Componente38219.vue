@@ -1,0 +1,33 @@
+<template>
+  <div>
+    <p>{{ etiqueta }}: {{ valorFormateado }}</p>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "Item38219",
+  props: {
+    etiqueta: { type: String, default: "item-38219" },
+    valor: { type: Number, default: 38219 },
+    activo: { type: Boolean, default: false }
+  },
+  computed: {
+    valorFormateado() {
+      return this.activo ? this.valor * 1.1 : this.valor;
+    }
+  },
+  watch: {
+    valor(nuevo) {
+      this.$emit("cambio", nuevo);
+    },
+    activo(nuevo) {
+      this.$emit("toggle", nuevo);
+    }
+  }
+};
+</script>
+
+<style scoped>
+.item-38219 { color: blue; }
+</style>
