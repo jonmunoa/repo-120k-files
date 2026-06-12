@@ -1,9 +1,5 @@
 <template>
   <ul class="lista-31634">
-    <li>elemento 0 de 31634</li>
-    <li>elemento 1 de 31634</li>
-    <li>elemento 2 de 31634</li>
-    <li>elemento 3 de 31634</li>
-    <li>elemento 4 de 31634</li>
+    <li>elemento unico 31634 (modificado)</li>
   </ul>
 </template>

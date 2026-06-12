@@ -1,33 +1,12 @@
 <template>
   <div>
-    <p>{{ etiqueta }}: {{ valorFormateado }}</p>
+    <p>{{ etiqueta }} -- MODIFICADO</p>
   </div>
 </template>
 
 <script>
 export default {
   name: "Item41759",
-  props: {
-    etiqueta: { type: String, default: "item-41759" },
-    valor: { type: Number, default: 41759 },
-    activo: { type: Boolean, default: false }
-  },
-  computed: {
-    valorFormateado() {
-      return this.activo ? this.valor * 1.1 : this.valor;
-    }
-  },
-  watch: {
-    valor(nuevo) {
-      this.$emit("cambio", nuevo);
-    },
-    activo(nuevo) {
-      this.$emit("toggle", nuevo);
-    }
-  }
+  props: { etiqueta: { type: String, default: "item-41759-v2" } }
 };
 </script>
-
-<style scoped>
-.item-41759 { color: blue; }
-</style>

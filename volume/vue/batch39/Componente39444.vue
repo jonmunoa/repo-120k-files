@@ -1,7 +1,6 @@
 <template>
   <div class="componente-39444">
-    <p>{{ mensaje39444 }}</p>
-    <button @click="accion0">Accion 0</button>
+    <p>{{ mensaje39444 }} -- MODIFICADO</p>
   </div>
 </template>
 
@@ -9,16 +8,7 @@
 export default {
   name: "Componente39444",
   data() {
-    return { mensaje39444: "valor 39444", contador: 0 };
-  },
-  computed: {
-    doble() { return this.contador * 2; }
-  },
-  methods: {
-    accion0() { this.contador += 1; }
-  },
-  watch: {
-    contador(nuevo, viejo) { console.log(nuevo, viejo); }
+    return { mensaje39444: "valor 39444 actualizado" };
   }
 };
 </script>

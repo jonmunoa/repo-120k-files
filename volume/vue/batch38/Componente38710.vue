@@ -1,5 +1,5 @@
 <template>
   <ul class="lista-38710">
-    <li>elemento 0 de 38710</li>
+    <li>elemento unico 38710 (modificado)</li>
   </ul>
 </template>

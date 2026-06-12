@@ -1,18 +1,10 @@
 <template>
   <section class="panel-9985">
-    <h2>{{ titulo }}</h2>
-    <span>{{ total }}</span>
+    <h2>{{ titulo }} -- MODIFICADO</h2>
   </section>
 </template>
 
 <script setup>
-import { ref, computed } from "vue";
-
-const titulo = ref("Panel 9985");
-const base = ref(9985);
-const total = computed(() => base.value * 2);
-
-function incrementar9985() {
-  base.value++;
-}
+import { ref } from "vue";
+const titulo = ref("Panel 9985 v2");
 </script>
