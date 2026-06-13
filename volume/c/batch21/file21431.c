@@ -1,0 +1,20 @@
+// fichero 21431 -- utilidades static
+static int util21431_0(int a, int b) {
+    return a + b * 1;
+}
+
+static int util21431_1(int a, int b) {
+    return a + b * 2;
+}
+
+static int util21431_2(int a, int b) {
+    return a + b * 3;
+}
+
+static int util21431_3(int a, int b) {
+    return a + b * 4;
+}
+
+int combinar21431(int a, int b) {
+    return util21431_0(a, b);
+}

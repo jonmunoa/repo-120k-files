@@ -1,0 +1,8 @@
+// fichero 3802 -- macros y constantes
+#define LIMITE_3802 3902
+#define FACTOR_3802 3
+
+int aplicar_limite3802(int valor) {
+    if (valor > LIMITE_3802) return LIMITE_3802;
+    return valor * FACTOR_3802;
+}

@@ -1,0 +1,8 @@
+// fichero 6138 -- macros y constantes
+#define LIMITE_6138 6238
+#define FACTOR_6138 4
+
+int aplicar_limite6138(int valor) {
+    if (valor > LIMITE_6138) return LIMITE_6138;
+    return valor * FACTOR_6138;
+}

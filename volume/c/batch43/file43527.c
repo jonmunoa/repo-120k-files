@@ -1,0 +1,20 @@
+// fichero 43527 -- utilidades static
+static int util43527_0(int a, int b) {
+    return a + b * 1;
+}
+
+static int util43527_1(int a, int b) {
+    return a + b * 2;
+}
+
+static int util43527_2(int a, int b) {
+    return a + b * 3;
+}
+
+static int util43527_3(int a, int b) {
+    return a + b * 4;
+}
+
+int combinar43527(int a, int b) {
+    return util43527_0(a, b);
+}

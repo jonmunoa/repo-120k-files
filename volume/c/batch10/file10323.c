@@ -1,0 +1,20 @@
+// fichero 10323 -- utilidades static
+static int util10323_0(int a, int b) {
+    return a + b * 1;
+}
+
+static int util10323_1(int a, int b) {
+    return a + b * 2;
+}
+
+static int util10323_2(int a, int b) {
+    return a + b * 3;
+}
+
+static int util10323_3(int a, int b) {
+    return a + b * 4;
+}
+
+int combinar10323(int a, int b) {
+    return util10323_0(a, b);
+}

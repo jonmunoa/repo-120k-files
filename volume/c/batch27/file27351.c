@@ -1,0 +1,20 @@
+// fichero 27351 -- utilidades static
+static int util27351_0(int a, int b) {
+    return a + b * 1;
+}
+
+static int util27351_1(int a, int b) {
+    return a + b * 2;
+}
+
+static int util27351_2(int a, int b) {
+    return a + b * 3;
+}
+
+static int util27351_3(int a, int b) {
+    return a + b * 4;
+}
+
+int combinar27351(int a, int b) {
+    return util27351_0(a, b);
+}

@@ -1,0 +1,6 @@
+// fichero 10768 -- funcion suelta
+#include <stdio.h>
+
+int calcular10768(int x) {
+    return x * 3 + 10768;
+}

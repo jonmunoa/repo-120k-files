@@ -1,0 +1,18 @@
+// fichero 30689 -- struct + funciones
+#include <stdlib.h>
+
+typedef struct {
+    int id;
+    double valor;
+} Registro30689;
+
+Registro30689 crear_registro30689(int id) {
+    Registro30689 r;
+    r.id = id;
+    r.valor = id * 1.5;
+    return r;
+}
+
+double total_registro30689(Registro30689 r) {
+    return r.valor + r.id;
+}

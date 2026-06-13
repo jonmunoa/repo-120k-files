@@ -1,0 +1,8 @@
+// fichero 14122 -- macros y constantes
+#define LIMITE_14122 14222
+#define FACTOR_14122 3
+
+int aplicar_limite14122(int valor) {
+    if (valor > LIMITE_14122) return LIMITE_14122;
+    return valor * FACTOR_14122;
+}

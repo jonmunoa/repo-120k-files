@@ -1,0 +1,8 @@
+// fichero 17518 -- macros y constantes
+#define LIMITE_17518 17618
+#define FACTOR_17518 4
+
+int aplicar_limite17518(int valor) {
+    if (valor > LIMITE_17518) return LIMITE_17518;
+    return valor * FACTOR_17518;
+}

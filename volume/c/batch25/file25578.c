@@ -1,0 +1,8 @@
+// fichero 25578 -- macros y constantes
+#define LIMITE_25578 25678
+#define FACTOR_25578 4
+
+int aplicar_limite25578(int valor) {
+    if (valor > LIMITE_25578) return LIMITE_25578;
+    return valor * FACTOR_25578;
+}

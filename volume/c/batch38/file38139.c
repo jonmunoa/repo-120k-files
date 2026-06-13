@@ -1,0 +1,20 @@
+// fichero 38139 -- utilidades static
+static int util38139_0(int a, int b) {
+    return a + b * 1;
+}
+
+static int util38139_1(int a, int b) {
+    return a + b * 2;
+}
+
+static int util38139_2(int a, int b) {
+    return a + b * 3;
+}
+
+static int util38139_3(int a, int b) {
+    return a + b * 4;
+}
+
+int combinar38139(int a, int b) {
+    return util38139_0(a, b);
+}

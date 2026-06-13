@@ -1,0 +1,8 @@
+// fichero 48482 -- macros y constantes
+#define LIMITE_48482 48582
+#define FACTOR_48482 3
+
+int aplicar_limite48482(int valor) {
+    if (valor > LIMITE_48482) return LIMITE_48482;
+    return valor * FACTOR_48482;
+}

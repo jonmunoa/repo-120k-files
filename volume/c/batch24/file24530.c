@@ -1,0 +1,8 @@
+// fichero 24530 -- macros y constantes
+#define LIMITE_24530 24630
+#define FACTOR_24530 1
+
+int aplicar_limite24530(int valor) {
+    if (valor > LIMITE_24530) return LIMITE_24530;
+    return valor * FACTOR_24530;
+}

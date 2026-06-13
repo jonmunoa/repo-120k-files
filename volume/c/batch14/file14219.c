@@ -1,0 +1,20 @@
+// fichero 14219 -- utilidades static
+static int util14219_0(int a, int b) {
+    return a + b * 1;
+}
+
+static int util14219_1(int a, int b) {
+    return a + b * 2;
+}
+
+static int util14219_2(int a, int b) {
+    return a + b * 3;
+}
+
+static int util14219_3(int a, int b) {
+    return a + b * 4;
+}
+
+int combinar14219(int a, int b) {
+    return util14219_0(a, b);
+}

@@ -1,0 +1,8 @@
+// fichero 9566 -- macros y constantes
+#define LIMITE_9566 9666
+#define FACTOR_9566 2
+
+int aplicar_limite9566(int valor) {
+    if (valor > LIMITE_9566) return LIMITE_9566;
+    return valor * FACTOR_9566;
+}

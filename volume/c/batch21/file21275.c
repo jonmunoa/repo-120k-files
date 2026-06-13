@@ -1,0 +1,20 @@
+// fichero 21275 -- utilidades static
+static int util21275_0(int a, int b) {
+    return a + b * 1;
+}
+
+static int util21275_1(int a, int b) {
+    return a + b * 2;
+}
+
+static int util21275_2(int a, int b) {
+    return a + b * 3;
+}
+
+static int util21275_3(int a, int b) {
+    return a + b * 4;
+}
+
+int combinar21275(int a, int b) {
+    return util21275_0(a, b);
+}

@@ -1,0 +1,8 @@
+// fichero 46242 -- macros y constantes
+#define LIMITE_46242 46342
+#define FACTOR_46242 3
+
+int aplicar_limite46242(int valor) {
+    if (valor > LIMITE_46242) return LIMITE_46242;
+    return valor * FACTOR_46242;
+}

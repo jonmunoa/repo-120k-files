@@ -1,0 +1,20 @@
+// fichero 10003 -- utilidades static
+static int util10003_0(int a, int b) {
+    return a + b * 1;
+}
+
+static int util10003_1(int a, int b) {
+    return a + b * 2;
+}
+
+static int util10003_2(int a, int b) {
+    return a + b * 3;
+}
+
+static int util10003_3(int a, int b) {
+    return a + b * 4;
+}
+
+int combinar10003(int a, int b) {
+    return util10003_0(a, b);
+}

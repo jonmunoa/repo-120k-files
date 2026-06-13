@@ -1,0 +1,8 @@
+// fichero 20370 -- macros y constantes
+#define LIMITE_20370 20470
+#define FACTOR_20370 1
+
+int aplicar_limite20370(int valor) {
+    if (valor > LIMITE_20370) return LIMITE_20370;
+    return valor * FACTOR_20370;
+}

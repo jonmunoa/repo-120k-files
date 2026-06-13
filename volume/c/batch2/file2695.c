@@ -1,0 +1,20 @@
+// fichero 2695 -- utilidades static
+static int util2695_0(int a, int b) {
+    return a + b * 1;
+}
+
+static int util2695_1(int a, int b) {
+    return a + b * 2;
+}
+
+static int util2695_2(int a, int b) {
+    return a + b * 3;
+}
+
+static int util2695_3(int a, int b) {
+    return a + b * 4;
+}
+
+int combinar2695(int a, int b) {
+    return util2695_0(a, b);
+}

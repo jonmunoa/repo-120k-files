@@ -1,0 +1,8 @@
+// fichero 10074 -- macros y constantes
+#define LIMITE_10074 10174
+#define FACTOR_10074 5
+
+int aplicar_limite10074(int valor) {
+    if (valor > LIMITE_10074) return LIMITE_10074;
+    return valor * FACTOR_10074;
+}

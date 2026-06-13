@@ -1,0 +1,20 @@
+// fichero 31559 -- utilidades static
+static int util31559_0(int a, int b) {
+    return a + b * 1;
+}
+
+static int util31559_1(int a, int b) {
+    return a + b * 2;
+}
+
+static int util31559_2(int a, int b) {
+    return a + b * 3;
+}
+
+static int util31559_3(int a, int b) {
+    return a + b * 4;
+}
+
+int combinar31559(int a, int b) {
+    return util31559_0(a, b);
+}

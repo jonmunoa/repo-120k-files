@@ -1,0 +1,8 @@
+// fichero 17202 -- macros y constantes
+#define LIMITE_17202 17302
+#define FACTOR_17202 3
+
+int aplicar_limite17202(int valor) {
+    if (valor > LIMITE_17202) return LIMITE_17202;
+    return valor * FACTOR_17202;
+}

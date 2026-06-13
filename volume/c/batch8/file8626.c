@@ -1,0 +1,8 @@
+// fichero 8626 -- macros y constantes
+#define LIMITE_8626 8726
+#define FACTOR_8626 2
+
+int aplicar_limite8626(int valor) {
+    if (valor > LIMITE_8626) return LIMITE_8626;
+    return valor * FACTOR_8626;
+}

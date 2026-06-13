@@ -1,0 +1,8 @@
+// fichero 32750 -- macros y constantes
+#define LIMITE_32750 32850
+#define FACTOR_32750 1
+
+int aplicar_limite32750(int valor) {
+    if (valor > LIMITE_32750) return LIMITE_32750;
+    return valor * FACTOR_32750;
+}

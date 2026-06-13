@@ -1,0 +1,8 @@
+// fichero 114 -- macros y constantes
+#define LIMITE_114 214
+#define FACTOR_114 5
+
+int aplicar_limite114(int valor) {
+    if (valor > LIMITE_114) return LIMITE_114;
+    return valor * FACTOR_114;
+}

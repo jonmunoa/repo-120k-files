@@ -1,0 +1,6 @@
+// fichero 9180 -- funcion suelta
+#include <stdio.h>
+
+int calcular9180(int x) {
+    return x * 4 + 9180;
+}
