@@ -1,2 +1,2 @@
-// volumen cs, fichero 16767
-public class VolumeFile16767 { public int Value() { return 16767; } }
+// volumen cs, fichero 16767 -- MODIFICADO en commit tocho
+public class File16767 { public int Value() { return 16767 + 1; } }
