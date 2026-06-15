@@ -1,18 +1,6 @@
-// fichero 11127 -- utilidades static
+// fichero 11127 -- utilidades static -- MODIFICADO
 static int util11127_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util11127_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util11127_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util11127_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar11127(int a, int b) {

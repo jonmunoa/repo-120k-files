@@ -1,6 +1,6 @@
-// fichero 358 -- macros y constantes
-#define LIMITE_358 458
-#define FACTOR_358 4
+// fichero 358 -- macros y constantes -- MODIFICADO
+#define LIMITE_358 558
+#define FACTOR_358 5
 
 int aplicar_limite358(int valor) {
     if (valor > LIMITE_358) return LIMITE_358;

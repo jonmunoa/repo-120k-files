@@ -1,6 +1,6 @@
-// fichero 2248 -- funcion suelta
+// fichero 2248 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular2248(int x) {
-    return x * 2 + 2248;
+    return x * 3 + 2248; /* factor cambiado */
 }

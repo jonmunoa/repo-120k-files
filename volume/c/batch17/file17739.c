@@ -1,18 +1,6 @@
-// fichero 17739 -- utilidades static
+// fichero 17739 -- utilidades static -- MODIFICADO
 static int util17739_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util17739_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util17739_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util17739_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar17739(int a, int b) {

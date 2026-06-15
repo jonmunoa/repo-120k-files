@@ -1,18 +1,6 @@
-// fichero 19079 -- utilidades static
+// fichero 19079 -- utilidades static -- MODIFICADO
 static int util19079_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util19079_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util19079_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util19079_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar19079(int a, int b) {

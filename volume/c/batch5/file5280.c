@@ -1,6 +1,6 @@
-// fichero 5280 -- funcion suelta
+// fichero 5280 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular5280(int x) {
-    return x * 3 + 5280;
+    return x * 4 + 5280; /* factor cambiado */
 }

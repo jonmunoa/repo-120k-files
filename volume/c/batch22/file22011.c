@@ -1,18 +1,6 @@
-// fichero 22011 -- utilidades static
+// fichero 22011 -- utilidades static -- MODIFICADO
 static int util22011_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util22011_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util22011_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util22011_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar22011(int a, int b) {

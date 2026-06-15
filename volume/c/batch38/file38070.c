@@ -1,6 +1,6 @@
-// fichero 38070 -- macros y constantes
-#define LIMITE_38070 38170
-#define FACTOR_38070 1
+// fichero 38070 -- macros y constantes -- MODIFICADO
+#define LIMITE_38070 38270
+#define FACTOR_38070 2
 
 int aplicar_limite38070(int valor) {
     if (valor > LIMITE_38070) return LIMITE_38070;

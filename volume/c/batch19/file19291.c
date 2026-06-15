@@ -1,18 +1,6 @@
-// fichero 19291 -- utilidades static
+// fichero 19291 -- utilidades static -- MODIFICADO
 static int util19291_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util19291_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util19291_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util19291_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar19291(int a, int b) {

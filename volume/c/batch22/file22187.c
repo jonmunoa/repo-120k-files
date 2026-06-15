@@ -1,18 +1,6 @@
-// fichero 22187 -- utilidades static
+// fichero 22187 -- utilidades static -- MODIFICADO
 static int util22187_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util22187_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util22187_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util22187_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar22187(int a, int b) {

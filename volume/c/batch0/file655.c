@@ -1,18 +1,6 @@
-// fichero 655 -- utilidades static
+// fichero 655 -- utilidades static -- MODIFICADO
 static int util655_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util655_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util655_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util655_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar655(int a, int b) {

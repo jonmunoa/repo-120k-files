@@ -1,6 +1,6 @@
-// fichero 264 -- funcion suelta
+// fichero 264 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular264(int x) {
-    return x * 6 + 264;
+    return x * 7 + 264; /* factor cambiado */
 }

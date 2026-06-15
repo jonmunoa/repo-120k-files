@@ -1,6 +1,6 @@
-// fichero 23970 -- macros y constantes
-#define LIMITE_23970 24070
-#define FACTOR_23970 1
+// fichero 23970 -- macros y constantes -- MODIFICADO
+#define LIMITE_23970 24170
+#define FACTOR_23970 2
 
 int aplicar_limite23970(int valor) {
     if (valor > LIMITE_23970) return LIMITE_23970;

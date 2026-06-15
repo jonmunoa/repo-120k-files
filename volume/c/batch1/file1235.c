@@ -1,18 +1,6 @@
-// fichero 1235 -- utilidades static
+// fichero 1235 -- utilidades static -- MODIFICADO
 static int util1235_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util1235_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util1235_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util1235_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar1235(int a, int b) {

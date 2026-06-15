@@ -1,18 +1,6 @@
-// fichero 6747 -- utilidades static
+// fichero 6747 -- utilidades static -- MODIFICADO
 static int util6747_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util6747_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util6747_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util6747_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar6747(int a, int b) {

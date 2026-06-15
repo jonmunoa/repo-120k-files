@@ -1,6 +1,6 @@
-// fichero 6094 -- macros y constantes
-#define LIMITE_6094 6194
-#define FACTOR_6094 5
+// fichero 6094 -- macros y constantes -- MODIFICADO
+#define LIMITE_6094 6294
+#define FACTOR_6094 6
 
 int aplicar_limite6094(int valor) {
     if (valor > LIMITE_6094) return LIMITE_6094;

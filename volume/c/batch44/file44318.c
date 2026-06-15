@@ -1,6 +1,6 @@
-// fichero 44318 -- macros y constantes
-#define LIMITE_44318 44418
-#define FACTOR_44318 4
+// fichero 44318 -- macros y constantes -- MODIFICADO
+#define LIMITE_44318 44518
+#define FACTOR_44318 5
 
 int aplicar_limite44318(int valor) {
     if (valor > LIMITE_44318) return LIMITE_44318;

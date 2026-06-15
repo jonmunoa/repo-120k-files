@@ -1,18 +1,6 @@
-// fichero 42315 -- utilidades static
+// fichero 42315 -- utilidades static -- MODIFICADO
 static int util42315_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util42315_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util42315_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util42315_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar42315(int a, int b) {

@@ -1,18 +1,6 @@
-// fichero 467 -- utilidades static
+// fichero 467 -- utilidades static -- MODIFICADO
 static int util467_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util467_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util467_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util467_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar467(int a, int b) {

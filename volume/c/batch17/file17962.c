@@ -1,6 +1,6 @@
-// fichero 17962 -- macros y constantes
-#define LIMITE_17962 18062
-#define FACTOR_17962 3
+// fichero 17962 -- macros y constantes -- MODIFICADO
+#define LIMITE_17962 18162
+#define FACTOR_17962 4
 
 int aplicar_limite17962(int valor) {
     if (valor > LIMITE_17962) return LIMITE_17962;

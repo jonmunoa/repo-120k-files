@@ -1,6 +1,6 @@
-// fichero 40966 -- macros y constantes
-#define LIMITE_40966 41066
-#define FACTOR_40966 2
+// fichero 40966 -- macros y constantes -- MODIFICADO
+#define LIMITE_40966 41166
+#define FACTOR_40966 3
 
 int aplicar_limite40966(int valor) {
     if (valor > LIMITE_40966) return LIMITE_40966;

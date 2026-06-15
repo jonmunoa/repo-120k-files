@@ -1,18 +1,6 @@
-// fichero 39959 -- utilidades static
+// fichero 39959 -- utilidades static -- MODIFICADO
 static int util39959_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util39959_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util39959_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util39959_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar39959(int a, int b) {

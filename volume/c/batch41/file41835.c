@@ -1,18 +1,6 @@
-// fichero 41835 -- utilidades static
+// fichero 41835 -- utilidades static -- MODIFICADO
 static int util41835_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util41835_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util41835_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util41835_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar41835(int a, int b) {

@@ -1,6 +1,6 @@
-// fichero 14554 -- macros y constantes
-#define LIMITE_14554 14654
-#define FACTOR_14554 5
+// fichero 14554 -- macros y constantes -- MODIFICADO
+#define LIMITE_14554 14754
+#define FACTOR_14554 6
 
 int aplicar_limite14554(int valor) {
     if (valor > LIMITE_14554) return LIMITE_14554;

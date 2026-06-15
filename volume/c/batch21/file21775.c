@@ -1,18 +1,6 @@
-// fichero 21775 -- utilidades static
+// fichero 21775 -- utilidades static -- MODIFICADO
 static int util21775_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util21775_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util21775_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util21775_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar21775(int a, int b) {

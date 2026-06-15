@@ -1,6 +1,6 @@
-// fichero 26082 -- macros y constantes
-#define LIMITE_26082 26182
-#define FACTOR_26082 3
+// fichero 26082 -- macros y constantes -- MODIFICADO
+#define LIMITE_26082 26282
+#define FACTOR_26082 4
 
 int aplicar_limite26082(int valor) {
     if (valor > LIMITE_26082) return LIMITE_26082;

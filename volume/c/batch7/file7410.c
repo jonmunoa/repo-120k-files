@@ -1,6 +1,6 @@
-// fichero 7410 -- macros y constantes
-#define LIMITE_7410 7510
-#define FACTOR_7410 1
+// fichero 7410 -- macros y constantes -- MODIFICADO
+#define LIMITE_7410 7610
+#define FACTOR_7410 2
 
 int aplicar_limite7410(int valor) {
     if (valor > LIMITE_7410) return LIMITE_7410;

@@ -1,6 +1,6 @@
-// fichero 47250 -- macros y constantes
-#define LIMITE_47250 47350
-#define FACTOR_47250 1
+// fichero 47250 -- macros y constantes -- MODIFICADO
+#define LIMITE_47250 47450
+#define FACTOR_47250 2
 
 int aplicar_limite47250(int valor) {
     if (valor > LIMITE_47250) return LIMITE_47250;

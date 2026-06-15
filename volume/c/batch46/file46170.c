@@ -1,6 +1,6 @@
-// fichero 46170 -- macros y constantes
-#define LIMITE_46170 46270
-#define FACTOR_46170 1
+// fichero 46170 -- macros y constantes -- MODIFICADO
+#define LIMITE_46170 46370
+#define FACTOR_46170 2
 
 int aplicar_limite46170(int valor) {
     if (valor > LIMITE_46170) return LIMITE_46170;

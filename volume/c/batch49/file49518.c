@@ -1,6 +1,6 @@
-// fichero 49518 -- macros y constantes
-#define LIMITE_49518 49618
-#define FACTOR_49518 4
+// fichero 49518 -- macros y constantes -- MODIFICADO
+#define LIMITE_49518 49718
+#define FACTOR_49518 5
 
 int aplicar_limite49518(int valor) {
     if (valor > LIMITE_49518) return LIMITE_49518;

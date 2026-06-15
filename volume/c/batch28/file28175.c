@@ -1,18 +1,6 @@
-// fichero 28175 -- utilidades static
+// fichero 28175 -- utilidades static -- MODIFICADO
 static int util28175_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util28175_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util28175_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util28175_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar28175(int a, int b) {

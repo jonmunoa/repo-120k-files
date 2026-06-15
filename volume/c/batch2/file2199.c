@@ -1,18 +1,6 @@
-// fichero 2199 -- utilidades static
+// fichero 2199 -- utilidades static -- MODIFICADO
 static int util2199_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util2199_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util2199_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util2199_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar2199(int a, int b) {

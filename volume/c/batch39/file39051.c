@@ -1,18 +1,6 @@
-// fichero 39051 -- utilidades static
+// fichero 39051 -- utilidades static -- MODIFICADO
 static int util39051_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util39051_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util39051_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util39051_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar39051(int a, int b) {

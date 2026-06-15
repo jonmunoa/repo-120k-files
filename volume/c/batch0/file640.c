@@ -1,6 +1,6 @@
-// fichero 640 -- funcion suelta
+// fichero 640 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular640(int x) {
-    return x * 4 + 640;
+    return x * 5 + 640; /* factor cambiado */
 }

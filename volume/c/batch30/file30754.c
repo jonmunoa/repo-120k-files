@@ -1,6 +1,6 @@
-// fichero 30754 -- macros y constantes
-#define LIMITE_30754 30854
-#define FACTOR_30754 5
+// fichero 30754 -- macros y constantes -- MODIFICADO
+#define LIMITE_30754 30954
+#define FACTOR_30754 6
 
 int aplicar_limite30754(int valor) {
     if (valor > LIMITE_30754) return LIMITE_30754;

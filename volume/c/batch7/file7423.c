@@ -1,18 +1,6 @@
-// fichero 7423 -- utilidades static
+// fichero 7423 -- utilidades static -- MODIFICADO
 static int util7423_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util7423_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util7423_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util7423_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar7423(int a, int b) {

@@ -1,6 +1,6 @@
-// fichero 2008 -- funcion suelta
+// fichero 2008 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular2008(int x) {
-    return x * 7 + 2008;
+    return x * 8 + 2008; /* factor cambiado */
 }

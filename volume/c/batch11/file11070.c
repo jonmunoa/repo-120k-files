@@ -1,6 +1,6 @@
-// fichero 11070 -- macros y constantes
-#define LIMITE_11070 11170
-#define FACTOR_11070 1
+// fichero 11070 -- macros y constantes -- MODIFICADO
+#define LIMITE_11070 11270
+#define FACTOR_11070 2
 
 int aplicar_limite11070(int valor) {
     if (valor > LIMITE_11070) return LIMITE_11070;

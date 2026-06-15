@@ -1,6 +1,6 @@
-// fichero 40082 -- macros y constantes
-#define LIMITE_40082 40182
-#define FACTOR_40082 3
+// fichero 40082 -- macros y constantes -- MODIFICADO
+#define LIMITE_40082 40282
+#define FACTOR_40082 4
 
 int aplicar_limite40082(int valor) {
     if (valor > LIMITE_40082) return LIMITE_40082;

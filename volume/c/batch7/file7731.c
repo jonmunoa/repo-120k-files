@@ -1,18 +1,6 @@
-// fichero 7731 -- utilidades static
+// fichero 7731 -- utilidades static -- MODIFICADO
 static int util7731_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util7731_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util7731_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util7731_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar7731(int a, int b) {

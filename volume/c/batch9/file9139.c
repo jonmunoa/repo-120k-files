@@ -1,18 +1,6 @@
-// fichero 9139 -- utilidades static
+// fichero 9139 -- utilidades static -- MODIFICADO
 static int util9139_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util9139_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util9139_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util9139_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar9139(int a, int b) {

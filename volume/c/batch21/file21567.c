@@ -1,18 +1,6 @@
-// fichero 21567 -- utilidades static
+// fichero 21567 -- utilidades static -- MODIFICADO
 static int util21567_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util21567_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util21567_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util21567_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar21567(int a, int b) {

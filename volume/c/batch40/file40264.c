@@ -1,6 +1,6 @@
-// fichero 40264 -- funcion suelta
+// fichero 40264 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular40264(int x) {
-    return x * 1 + 40264;
+    return x * 2 + 40264; /* factor cambiado */
 }

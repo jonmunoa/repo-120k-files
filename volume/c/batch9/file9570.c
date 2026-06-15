@@ -1,6 +1,6 @@
-// fichero 9570 -- macros y constantes
-#define LIMITE_9570 9670
-#define FACTOR_9570 1
+// fichero 9570 -- macros y constantes -- MODIFICADO
+#define LIMITE_9570 9770
+#define FACTOR_9570 2
 
 int aplicar_limite9570(int valor) {
     if (valor > LIMITE_9570) return LIMITE_9570;

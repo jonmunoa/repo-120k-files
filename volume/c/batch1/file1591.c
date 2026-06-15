@@ -1,18 +1,6 @@
-// fichero 1591 -- utilidades static
+// fichero 1591 -- utilidades static -- MODIFICADO
 static int util1591_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util1591_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util1591_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util1591_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar1591(int a, int b) {

@@ -1,6 +1,6 @@
-// fichero 978 -- macros y constantes
-#define LIMITE_978 1078
-#define FACTOR_978 4
+// fichero 978 -- macros y constantes -- MODIFICADO
+#define LIMITE_978 1178
+#define FACTOR_978 5
 
 int aplicar_limite978(int valor) {
     if (valor > LIMITE_978) return LIMITE_978;

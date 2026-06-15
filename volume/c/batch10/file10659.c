@@ -1,18 +1,6 @@
-// fichero 10659 -- utilidades static
+// fichero 10659 -- utilidades static -- MODIFICADO
 static int util10659_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util10659_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util10659_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util10659_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar10659(int a, int b) {

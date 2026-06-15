@@ -1,6 +1,6 @@
-// fichero 8028 -- funcion suelta
+// fichero 8028 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular8028(int x) {
-    return x * 7 + 8028;
+    return x * 8 + 8028; /* factor cambiado */
 }

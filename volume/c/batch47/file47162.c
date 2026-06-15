@@ -1,6 +1,6 @@
-// fichero 47162 -- macros y constantes
-#define LIMITE_47162 47262
-#define FACTOR_47162 3
+// fichero 47162 -- macros y constantes -- MODIFICADO
+#define LIMITE_47162 47362
+#define FACTOR_47162 4
 
 int aplicar_limite47162(int valor) {
     if (valor > LIMITE_47162) return LIMITE_47162;

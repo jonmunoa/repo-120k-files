@@ -1,18 +1,6 @@
-// fichero 28111 -- utilidades static
+// fichero 28111 -- utilidades static -- MODIFICADO
 static int util28111_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util28111_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util28111_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util28111_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar28111(int a, int b) {

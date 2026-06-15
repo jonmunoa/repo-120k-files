@@ -1,18 +1,6 @@
-// fichero 5559 -- utilidades static
+// fichero 5559 -- utilidades static -- MODIFICADO
 static int util5559_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util5559_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util5559_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util5559_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar5559(int a, int b) {

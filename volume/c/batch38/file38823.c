@@ -1,18 +1,6 @@
-// fichero 38823 -- utilidades static
+// fichero 38823 -- utilidades static -- MODIFICADO
 static int util38823_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util38823_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util38823_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util38823_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar38823(int a, int b) {

@@ -1,6 +1,6 @@
-// fichero 16242 -- macros y constantes
-#define LIMITE_16242 16342
-#define FACTOR_16242 3
+// fichero 16242 -- macros y constantes -- MODIFICADO
+#define LIMITE_16242 16442
+#define FACTOR_16242 4
 
 int aplicar_limite16242(int valor) {
     if (valor > LIMITE_16242) return LIMITE_16242;

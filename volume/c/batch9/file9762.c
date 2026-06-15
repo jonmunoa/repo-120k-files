@@ -1,6 +1,6 @@
-// fichero 9762 -- macros y constantes
-#define LIMITE_9762 9862
-#define FACTOR_9762 3
+// fichero 9762 -- macros y constantes -- MODIFICADO
+#define LIMITE_9762 9962
+#define FACTOR_9762 4
 
 int aplicar_limite9762(int valor) {
     if (valor > LIMITE_9762) return LIMITE_9762;

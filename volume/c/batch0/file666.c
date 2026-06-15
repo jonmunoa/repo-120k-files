@@ -1,6 +1,6 @@
-// fichero 666 -- macros y constantes
-#define LIMITE_666 766
-#define FACTOR_666 2
+// fichero 666 -- macros y constantes -- MODIFICADO
+#define LIMITE_666 866
+#define FACTOR_666 3
 
 int aplicar_limite666(int valor) {
     if (valor > LIMITE_666) return LIMITE_666;

@@ -1,6 +1,6 @@
-// fichero 7010 -- macros y constantes
-#define LIMITE_7010 7110
-#define FACTOR_7010 1
+// fichero 7010 -- macros y constantes -- MODIFICADO
+#define LIMITE_7010 7210
+#define FACTOR_7010 2
 
 int aplicar_limite7010(int valor) {
     if (valor > LIMITE_7010) return LIMITE_7010;

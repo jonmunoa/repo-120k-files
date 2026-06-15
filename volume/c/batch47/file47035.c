@@ -1,18 +1,6 @@
-// fichero 47035 -- utilidades static
+// fichero 47035 -- utilidades static -- MODIFICADO
 static int util47035_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util47035_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util47035_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util47035_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar47035(int a, int b) {

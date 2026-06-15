@@ -1,6 +1,6 @@
-// fichero 10714 -- macros y constantes
-#define LIMITE_10714 10814
-#define FACTOR_10714 5
+// fichero 10714 -- macros y constantes -- MODIFICADO
+#define LIMITE_10714 10914
+#define FACTOR_10714 6
 
 int aplicar_limite10714(int valor) {
     if (valor > LIMITE_10714) return LIMITE_10714;

@@ -1,6 +1,6 @@
-// fichero 420 -- funcion suelta
+// fichero 420 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular420(int x) {
-    return x * 1 + 420;
+    return x * 2 + 420; /* factor cambiado */
 }

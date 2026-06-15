@@ -1,6 +1,6 @@
-// fichero 7826 -- macros y constantes
-#define LIMITE_7826 7926
-#define FACTOR_7826 2
+// fichero 7826 -- macros y constantes -- MODIFICADO
+#define LIMITE_7826 8026
+#define FACTOR_7826 3
 
 int aplicar_limite7826(int valor) {
     if (valor > LIMITE_7826) return LIMITE_7826;

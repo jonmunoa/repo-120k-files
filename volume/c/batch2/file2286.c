@@ -1,6 +1,6 @@
-// fichero 2286 -- macros y constantes
-#define LIMITE_2286 2386
-#define FACTOR_2286 2
+// fichero 2286 -- macros y constantes -- MODIFICADO
+#define LIMITE_2286 2486
+#define FACTOR_2286 3
 
 int aplicar_limite2286(int valor) {
     if (valor > LIMITE_2286) return LIMITE_2286;

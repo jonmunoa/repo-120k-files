@@ -1,18 +1,6 @@
-// fichero 11075 -- utilidades static
+// fichero 11075 -- utilidades static -- MODIFICADO
 static int util11075_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util11075_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util11075_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util11075_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar11075(int a, int b) {

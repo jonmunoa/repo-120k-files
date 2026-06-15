@@ -1,18 +1,6 @@
-// fichero 48747 -- utilidades static
+// fichero 48747 -- utilidades static -- MODIFICADO
 static int util48747_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util48747_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util48747_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util48747_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar48747(int a, int b) {

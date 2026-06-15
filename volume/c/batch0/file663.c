@@ -1,18 +1,6 @@
-// fichero 663 -- utilidades static
+// fichero 663 -- utilidades static -- MODIFICADO
 static int util663_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util663_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util663_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util663_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar663(int a, int b) {

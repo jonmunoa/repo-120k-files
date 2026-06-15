@@ -1,6 +1,6 @@
-// fichero 8072 -- funcion suelta
+// fichero 8072 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular8072(int x) {
-    return x * 2 + 8072;
+    return x * 3 + 8072; /* factor cambiado */
 }

@@ -1,18 +1,6 @@
-// fichero 10079 -- utilidades static
+// fichero 10079 -- utilidades static -- MODIFICADO
 static int util10079_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util10079_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util10079_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util10079_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar10079(int a, int b) {

@@ -1,18 +1,6 @@
-// fichero 40139 -- utilidades static
+// fichero 40139 -- utilidades static -- MODIFICADO
 static int util40139_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util40139_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util40139_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util40139_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar40139(int a, int b) {

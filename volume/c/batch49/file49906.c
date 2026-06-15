@@ -1,6 +1,6 @@
-// fichero 49906 -- macros y constantes
-#define LIMITE_49906 50006
-#define FACTOR_49906 2
+// fichero 49906 -- macros y constantes -- MODIFICADO
+#define LIMITE_49906 50106
+#define FACTOR_49906 3
 
 int aplicar_limite49906(int valor) {
     if (valor > LIMITE_49906) return LIMITE_49906;

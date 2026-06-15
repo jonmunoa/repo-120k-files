@@ -1,18 +1,6 @@
-// fichero 19107 -- utilidades static
+// fichero 19107 -- utilidades static -- MODIFICADO
 static int util19107_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util19107_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util19107_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util19107_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar19107(int a, int b) {

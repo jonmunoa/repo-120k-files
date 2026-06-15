@@ -1,18 +1,6 @@
-// fichero 13055 -- utilidades static
+// fichero 13055 -- utilidades static -- MODIFICADO
 static int util13055_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util13055_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util13055_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util13055_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar13055(int a, int b) {

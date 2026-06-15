@@ -1,6 +1,6 @@
-// fichero 22230 -- macros y constantes
-#define LIMITE_22230 22330
-#define FACTOR_22230 1
+// fichero 22230 -- macros y constantes -- MODIFICADO
+#define LIMITE_22230 22430
+#define FACTOR_22230 2
 
 int aplicar_limite22230(int valor) {
     if (valor > LIMITE_22230) return LIMITE_22230;

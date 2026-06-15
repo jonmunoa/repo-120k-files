@@ -1,18 +1,6 @@
-// fichero 8655 -- utilidades static
+// fichero 8655 -- utilidades static -- MODIFICADO
 static int util8655_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util8655_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util8655_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util8655_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar8655(int a, int b) {

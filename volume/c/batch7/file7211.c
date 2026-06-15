@@ -1,18 +1,6 @@
-// fichero 7211 -- utilidades static
+// fichero 7211 -- utilidades static -- MODIFICADO
 static int util7211_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util7211_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util7211_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util7211_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar7211(int a, int b) {

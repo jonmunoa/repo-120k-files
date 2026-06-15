@@ -1,18 +1,6 @@
-// fichero 6235 -- utilidades static
+// fichero 6235 -- utilidades static -- MODIFICADO
 static int util6235_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util6235_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util6235_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util6235_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar6235(int a, int b) {

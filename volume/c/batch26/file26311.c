@@ -1,18 +1,6 @@
-// fichero 26311 -- utilidades static
+// fichero 26311 -- utilidades static -- MODIFICADO
 static int util26311_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util26311_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util26311_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util26311_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar26311(int a, int b) {

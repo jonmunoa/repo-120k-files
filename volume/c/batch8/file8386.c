@@ -1,6 +1,6 @@
-// fichero 8386 -- macros y constantes
-#define LIMITE_8386 8486
-#define FACTOR_8386 2
+// fichero 8386 -- macros y constantes -- MODIFICADO
+#define LIMITE_8386 8586
+#define FACTOR_8386 3
 
 int aplicar_limite8386(int valor) {
     if (valor > LIMITE_8386) return LIMITE_8386;

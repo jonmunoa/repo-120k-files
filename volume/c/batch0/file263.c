@@ -1,18 +1,6 @@
-// fichero 263 -- utilidades static
+// fichero 263 -- utilidades static -- MODIFICADO
 static int util263_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util263_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util263_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util263_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar263(int a, int b) {

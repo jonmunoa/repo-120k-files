@@ -1,18 +1,6 @@
-// fichero 4575 -- utilidades static
+// fichero 4575 -- utilidades static -- MODIFICADO
 static int util4575_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util4575_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util4575_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util4575_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar4575(int a, int b) {

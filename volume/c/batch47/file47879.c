@@ -1,18 +1,6 @@
-// fichero 47879 -- utilidades static
+// fichero 47879 -- utilidades static -- MODIFICADO
 static int util47879_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util47879_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util47879_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util47879_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar47879(int a, int b) {

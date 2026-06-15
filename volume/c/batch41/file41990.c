@@ -1,6 +1,6 @@
-// fichero 41990 -- macros y constantes
-#define LIMITE_41990 42090
-#define FACTOR_41990 1
+// fichero 41990 -- macros y constantes -- MODIFICADO
+#define LIMITE_41990 42190
+#define FACTOR_41990 2
 
 int aplicar_limite41990(int valor) {
     if (valor > LIMITE_41990) return LIMITE_41990;

@@ -1,6 +1,6 @@
-// fichero 8274 -- macros y constantes
-#define LIMITE_8274 8374
-#define FACTOR_8274 5
+// fichero 8274 -- macros y constantes -- MODIFICADO
+#define LIMITE_8274 8474
+#define FACTOR_8274 6
 
 int aplicar_limite8274(int valor) {
     if (valor > LIMITE_8274) return LIMITE_8274;

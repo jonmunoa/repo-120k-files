@@ -1,18 +1,6 @@
-// fichero 37827 -- utilidades static
+// fichero 37827 -- utilidades static -- MODIFICADO
 static int util37827_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util37827_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util37827_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util37827_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar37827(int a, int b) {

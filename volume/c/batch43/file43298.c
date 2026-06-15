@@ -1,6 +1,6 @@
-// fichero 43298 -- macros y constantes
-#define LIMITE_43298 43398
-#define FACTOR_43298 4
+// fichero 43298 -- macros y constantes -- MODIFICADO
+#define LIMITE_43298 43498
+#define FACTOR_43298 5
 
 int aplicar_limite43298(int valor) {
     if (valor > LIMITE_43298) return LIMITE_43298;

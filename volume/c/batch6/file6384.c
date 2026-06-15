@@ -1,6 +1,6 @@
-// fichero 6384 -- funcion suelta
+// fichero 6384 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular6384(int x) {
-    return x * 1 + 6384;
+    return x * 2 + 6384; /* factor cambiado */
 }

@@ -1,6 +1,6 @@
-// fichero 15586 -- macros y constantes
-#define LIMITE_15586 15686
-#define FACTOR_15586 2
+// fichero 15586 -- macros y constantes -- MODIFICADO
+#define LIMITE_15586 15786
+#define FACTOR_15586 3
 
 int aplicar_limite15586(int valor) {
     if (valor > LIMITE_15586) return LIMITE_15586;

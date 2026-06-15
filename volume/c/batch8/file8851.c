@@ -1,18 +1,6 @@
-// fichero 8851 -- utilidades static
+// fichero 8851 -- utilidades static -- MODIFICADO
 static int util8851_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util8851_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util8851_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util8851_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar8851(int a, int b) {

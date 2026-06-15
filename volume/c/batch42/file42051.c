@@ -1,18 +1,6 @@
-// fichero 42051 -- utilidades static
+// fichero 42051 -- utilidades static -- MODIFICADO
 static int util42051_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util42051_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util42051_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util42051_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar42051(int a, int b) {

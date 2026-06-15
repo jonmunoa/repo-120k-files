@@ -1,6 +1,6 @@
-// fichero 6906 -- macros y constantes
-#define LIMITE_6906 7006
-#define FACTOR_6906 2
+// fichero 6906 -- macros y constantes -- MODIFICADO
+#define LIMITE_6906 7106
+#define FACTOR_6906 3
 
 int aplicar_limite6906(int valor) {
     if (valor > LIMITE_6906) return LIMITE_6906;

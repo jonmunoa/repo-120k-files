@@ -1,18 +1,6 @@
-// fichero 31255 -- utilidades static
+// fichero 31255 -- utilidades static -- MODIFICADO
 static int util31255_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util31255_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util31255_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util31255_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar31255(int a, int b) {

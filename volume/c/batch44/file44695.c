@@ -1,18 +1,6 @@
-// fichero 44695 -- utilidades static
+// fichero 44695 -- utilidades static -- MODIFICADO
 static int util44695_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util44695_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util44695_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util44695_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar44695(int a, int b) {

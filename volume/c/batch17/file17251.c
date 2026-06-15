@@ -1,18 +1,6 @@
-// fichero 17251 -- utilidades static
+// fichero 17251 -- utilidades static -- MODIFICADO
 static int util17251_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util17251_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util17251_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util17251_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar17251(int a, int b) {

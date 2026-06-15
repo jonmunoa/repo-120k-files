@@ -1,18 +1,6 @@
-// fichero 26383 -- utilidades static
+// fichero 26383 -- utilidades static -- MODIFICADO
 static int util26383_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util26383_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util26383_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util26383_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar26383(int a, int b) {

@@ -1,6 +1,6 @@
-// fichero 7264 -- funcion suelta
+// fichero 7264 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular7264(int x) {
-    return x * 6 + 7264;
+    return x * 7 + 7264; /* factor cambiado */
 }

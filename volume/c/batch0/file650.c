@@ -1,6 +1,6 @@
-// fichero 650 -- macros y constantes
-#define LIMITE_650 750
-#define FACTOR_650 1
+// fichero 650 -- macros y constantes -- MODIFICADO
+#define LIMITE_650 850
+#define FACTOR_650 2
 
 int aplicar_limite650(int valor) {
     if (valor > LIMITE_650) return LIMITE_650;

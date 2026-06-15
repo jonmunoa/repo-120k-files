@@ -1,18 +1,6 @@
-// fichero 83 -- utilidades static
+// fichero 83 -- utilidades static -- MODIFICADO
 static int util83_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util83_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util83_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util83_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar83(int a, int b) {

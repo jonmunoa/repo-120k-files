@@ -1,6 +1,6 @@
-// fichero 20434 -- macros y constantes
-#define LIMITE_20434 20534
-#define FACTOR_20434 5
+// fichero 20434 -- macros y constantes -- MODIFICADO
+#define LIMITE_20434 20634
+#define FACTOR_20434 6
 
 int aplicar_limite20434(int valor) {
     if (valor > LIMITE_20434) return LIMITE_20434;

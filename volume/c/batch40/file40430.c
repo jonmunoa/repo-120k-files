@@ -1,6 +1,6 @@
-// fichero 40430 -- macros y constantes
-#define LIMITE_40430 40530
-#define FACTOR_40430 1
+// fichero 40430 -- macros y constantes -- MODIFICADO
+#define LIMITE_40430 40630
+#define FACTOR_40430 2
 
 int aplicar_limite40430(int valor) {
     if (valor > LIMITE_40430) return LIMITE_40430;

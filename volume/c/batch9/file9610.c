@@ -1,6 +1,6 @@
-// fichero 9610 -- macros y constantes
-#define LIMITE_9610 9710
-#define FACTOR_9610 1
+// fichero 9610 -- macros y constantes -- MODIFICADO
+#define LIMITE_9610 9810
+#define FACTOR_9610 2
 
 int aplicar_limite9610(int valor) {
     if (valor > LIMITE_9610) return LIMITE_9610;

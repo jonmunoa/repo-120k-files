@@ -1,18 +1,6 @@
-// fichero 23327 -- utilidades static
+// fichero 23327 -- utilidades static -- MODIFICADO
 static int util23327_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util23327_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util23327_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util23327_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar23327(int a, int b) {

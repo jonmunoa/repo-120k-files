@@ -1,18 +1,6 @@
-// fichero 28719 -- utilidades static
+// fichero 28719 -- utilidades static -- MODIFICADO
 static int util28719_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util28719_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util28719_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util28719_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar28719(int a, int b) {

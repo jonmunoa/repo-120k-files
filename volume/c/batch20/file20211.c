@@ -1,18 +1,6 @@
-// fichero 20211 -- utilidades static
+// fichero 20211 -- utilidades static -- MODIFICADO
 static int util20211_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util20211_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util20211_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util20211_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar20211(int a, int b) {

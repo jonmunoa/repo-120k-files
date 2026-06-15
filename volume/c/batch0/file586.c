@@ -1,6 +1,6 @@
-// fichero 586 -- macros y constantes
-#define LIMITE_586 686
-#define FACTOR_586 2
+// fichero 586 -- macros y constantes -- MODIFICADO
+#define LIMITE_586 786
+#define FACTOR_586 3
 
 int aplicar_limite586(int valor) {
     if (valor > LIMITE_586) return LIMITE_586;

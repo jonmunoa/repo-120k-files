@@ -1,18 +1,6 @@
-// fichero 8467 -- utilidades static
+// fichero 8467 -- utilidades static -- MODIFICADO
 static int util8467_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util8467_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util8467_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util8467_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar8467(int a, int b) {

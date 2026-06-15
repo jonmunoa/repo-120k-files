@@ -1,18 +1,6 @@
-// fichero 24035 -- utilidades static
+// fichero 24035 -- utilidades static -- MODIFICADO
 static int util24035_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util24035_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util24035_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util24035_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar24035(int a, int b) {

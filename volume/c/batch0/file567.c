@@ -1,18 +1,6 @@
-// fichero 567 -- utilidades static
+// fichero 567 -- utilidades static -- MODIFICADO
 static int util567_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util567_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util567_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util567_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar567(int a, int b) {

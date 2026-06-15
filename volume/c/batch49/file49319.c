@@ -1,18 +1,6 @@
-// fichero 49319 -- utilidades static
+// fichero 49319 -- utilidades static -- MODIFICADO
 static int util49319_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util49319_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util49319_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util49319_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar49319(int a, int b) {

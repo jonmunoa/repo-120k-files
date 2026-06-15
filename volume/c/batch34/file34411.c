@@ -1,18 +1,6 @@
-// fichero 34411 -- utilidades static
+// fichero 34411 -- utilidades static -- MODIFICADO
 static int util34411_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util34411_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util34411_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util34411_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar34411(int a, int b) {

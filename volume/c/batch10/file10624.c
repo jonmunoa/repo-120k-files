@@ -1,6 +1,6 @@
-// fichero 10624 -- funcion suelta
+// fichero 10624 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular10624(int x) {
-    return x * 6 + 10624;
+    return x * 7 + 10624; /* factor cambiado */
 }

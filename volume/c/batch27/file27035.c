@@ -1,18 +1,6 @@
-// fichero 27035 -- utilidades static
+// fichero 27035 -- utilidades static -- MODIFICADO
 static int util27035_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util27035_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util27035_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util27035_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar27035(int a, int b) {

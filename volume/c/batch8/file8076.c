@@ -1,6 +1,6 @@
-// fichero 8076 -- funcion suelta
+// fichero 8076 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular8076(int x) {
-    return x * 6 + 8076;
+    return x * 7 + 8076; /* factor cambiado */
 }

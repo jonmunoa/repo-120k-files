@@ -1,6 +1,6 @@
-// fichero 40404 -- funcion suelta
+// fichero 40404 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular40404(int x) {
-    return x * 1 + 40404;
+    return x * 2 + 40404; /* factor cambiado */
 }

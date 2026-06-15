@@ -1,6 +1,6 @@
-// fichero 2048 -- funcion suelta
+// fichero 2048 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular2048(int x) {
-    return x * 5 + 2048;
+    return x * 6 + 2048; /* factor cambiado */
 }

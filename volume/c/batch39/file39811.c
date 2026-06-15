@@ -1,18 +1,6 @@
-// fichero 39811 -- utilidades static
+// fichero 39811 -- utilidades static -- MODIFICADO
 static int util39811_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util39811_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util39811_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util39811_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar39811(int a, int b) {

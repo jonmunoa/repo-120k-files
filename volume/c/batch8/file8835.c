@@ -1,18 +1,6 @@
-// fichero 8835 -- utilidades static
+// fichero 8835 -- utilidades static -- MODIFICADO
 static int util8835_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util8835_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util8835_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util8835_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar8835(int a, int b) {

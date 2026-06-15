@@ -1,18 +1,6 @@
-// fichero 17791 -- utilidades static
+// fichero 17791 -- utilidades static -- MODIFICADO
 static int util17791_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util17791_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util17791_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util17791_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar17791(int a, int b) {

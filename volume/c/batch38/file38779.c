@@ -1,18 +1,6 @@
-// fichero 38779 -- utilidades static
+// fichero 38779 -- utilidades static -- MODIFICADO
 static int util38779_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util38779_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util38779_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util38779_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar38779(int a, int b) {

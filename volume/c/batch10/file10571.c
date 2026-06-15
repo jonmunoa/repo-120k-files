@@ -1,18 +1,6 @@
-// fichero 10571 -- utilidades static
+// fichero 10571 -- utilidades static -- MODIFICADO
 static int util10571_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util10571_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util10571_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util10571_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar10571(int a, int b) {

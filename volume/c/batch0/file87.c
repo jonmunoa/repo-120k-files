@@ -1,18 +1,6 @@
-// fichero 87 -- utilidades static
+// fichero 87 -- utilidades static -- MODIFICADO
 static int util87_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util87_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util87_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util87_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar87(int a, int b) {

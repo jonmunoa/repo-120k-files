@@ -1,18 +1,6 @@
-// fichero 20723 -- utilidades static
+// fichero 20723 -- utilidades static -- MODIFICADO
 static int util20723_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util20723_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util20723_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util20723_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar20723(int a, int b) {

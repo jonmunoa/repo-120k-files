@@ -1,18 +1,6 @@
-// fichero 39583 -- utilidades static
+// fichero 39583 -- utilidades static -- MODIFICADO
 static int util39583_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util39583_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util39583_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util39583_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar39583(int a, int b) {

@@ -1,18 +1,6 @@
-// fichero 46907 -- utilidades static
+// fichero 46907 -- utilidades static -- MODIFICADO
 static int util46907_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util46907_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util46907_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util46907_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar46907(int a, int b) {

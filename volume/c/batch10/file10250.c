@@ -1,6 +1,6 @@
-// fichero 10250 -- macros y constantes
-#define LIMITE_10250 10350
-#define FACTOR_10250 1
+// fichero 10250 -- macros y constantes -- MODIFICADO
+#define LIMITE_10250 10450
+#define FACTOR_10250 2
 
 int aplicar_limite10250(int valor) {
     if (valor > LIMITE_10250) return LIMITE_10250;

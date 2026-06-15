@@ -1,6 +1,6 @@
-// fichero 45810 -- macros y constantes
-#define LIMITE_45810 45910
-#define FACTOR_45810 1
+// fichero 45810 -- macros y constantes -- MODIFICADO
+#define LIMITE_45810 46010
+#define FACTOR_45810 2
 
 int aplicar_limite45810(int valor) {
     if (valor > LIMITE_45810) return LIMITE_45810;

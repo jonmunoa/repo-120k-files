@@ -1,18 +1,6 @@
-// fichero 25311 -- utilidades static
+// fichero 25311 -- utilidades static -- MODIFICADO
 static int util25311_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util25311_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util25311_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util25311_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar25311(int a, int b) {

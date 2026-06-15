@@ -1,6 +1,6 @@
-// fichero 21606 -- macros y constantes
-#define LIMITE_21606 21706
-#define FACTOR_21606 2
+// fichero 21606 -- macros y constantes -- MODIFICADO
+#define LIMITE_21606 21806
+#define FACTOR_21606 3
 
 int aplicar_limite21606(int valor) {
     if (valor > LIMITE_21606) return LIMITE_21606;

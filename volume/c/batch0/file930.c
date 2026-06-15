@@ -1,6 +1,6 @@
-// fichero 930 -- macros y constantes
-#define LIMITE_930 1030
-#define FACTOR_930 1
+// fichero 930 -- macros y constantes -- MODIFICADO
+#define LIMITE_930 1130
+#define FACTOR_930 2
 
 int aplicar_limite930(int valor) {
     if (valor > LIMITE_930) return LIMITE_930;

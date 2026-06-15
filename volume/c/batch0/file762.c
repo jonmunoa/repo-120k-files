@@ -1,6 +1,6 @@
-// fichero 762 -- macros y constantes
-#define LIMITE_762 862
-#define FACTOR_762 3
+// fichero 762 -- macros y constantes -- MODIFICADO
+#define LIMITE_762 962
+#define FACTOR_762 4
 
 int aplicar_limite762(int valor) {
     if (valor > LIMITE_762) return LIMITE_762;

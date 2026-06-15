@@ -1,6 +1,6 @@
-// fichero 2058 -- macros y constantes
-#define LIMITE_2058 2158
-#define FACTOR_2058 4
+// fichero 2058 -- macros y constantes -- MODIFICADO
+#define LIMITE_2058 2258
+#define FACTOR_2058 5
 
 int aplicar_limite2058(int valor) {
     if (valor > LIMITE_2058) return LIMITE_2058;

@@ -1,6 +1,6 @@
-// fichero 47126 -- macros y constantes
-#define LIMITE_47126 47226
-#define FACTOR_47126 2
+// fichero 47126 -- macros y constantes -- MODIFICADO
+#define LIMITE_47126 47326
+#define FACTOR_47126 3
 
 int aplicar_limite47126(int valor) {
     if (valor > LIMITE_47126) return LIMITE_47126;

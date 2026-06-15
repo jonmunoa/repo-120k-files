@@ -1,6 +1,6 @@
-// fichero 5110 -- macros y constantes
-#define LIMITE_5110 5210
-#define FACTOR_5110 1
+// fichero 5110 -- macros y constantes -- MODIFICADO
+#define LIMITE_5110 5310
+#define FACTOR_5110 2
 
 int aplicar_limite5110(int valor) {
     if (valor > LIMITE_5110) return LIMITE_5110;

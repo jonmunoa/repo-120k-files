@@ -1,18 +1,6 @@
-// fichero 8027 -- utilidades static
+// fichero 8027 -- utilidades static -- MODIFICADO
 static int util8027_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util8027_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util8027_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util8027_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar8027(int a, int b) {

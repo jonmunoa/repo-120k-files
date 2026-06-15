@@ -1,6 +1,6 @@
-// fichero 506 -- macros y constantes
-#define LIMITE_506 606
-#define FACTOR_506 2
+// fichero 506 -- macros y constantes -- MODIFICADO
+#define LIMITE_506 706
+#define FACTOR_506 3
 
 int aplicar_limite506(int valor) {
     if (valor > LIMITE_506) return LIMITE_506;

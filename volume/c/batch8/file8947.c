@@ -1,18 +1,6 @@
-// fichero 8947 -- utilidades static
+// fichero 8947 -- utilidades static -- MODIFICADO
 static int util8947_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util8947_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util8947_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util8947_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar8947(int a, int b) {

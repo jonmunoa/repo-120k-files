@@ -1,6 +1,6 @@
-// fichero 31950 -- macros y constantes
-#define LIMITE_31950 32050
-#define FACTOR_31950 1
+// fichero 31950 -- macros y constantes -- MODIFICADO
+#define LIMITE_31950 32150
+#define FACTOR_31950 2
 
 int aplicar_limite31950(int valor) {
     if (valor > LIMITE_31950) return LIMITE_31950;

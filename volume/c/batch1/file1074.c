@@ -1,6 +1,6 @@
-// fichero 1074 -- macros y constantes
-#define LIMITE_1074 1174
-#define FACTOR_1074 5
+// fichero 1074 -- macros y constantes -- MODIFICADO
+#define LIMITE_1074 1274
+#define FACTOR_1074 6
 
 int aplicar_limite1074(int valor) {
     if (valor > LIMITE_1074) return LIMITE_1074;

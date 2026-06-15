@@ -1,18 +1,6 @@
-// fichero 31059 -- utilidades static
+// fichero 31059 -- utilidades static -- MODIFICADO
 static int util31059_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util31059_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util31059_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util31059_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar31059(int a, int b) {

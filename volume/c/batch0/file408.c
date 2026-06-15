@@ -1,6 +1,6 @@
-// fichero 408 -- funcion suelta
+// fichero 408 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular408(int x) {
-    return x * 3 + 408;
+    return x * 4 + 408; /* factor cambiado */
 }

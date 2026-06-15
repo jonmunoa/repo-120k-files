@@ -1,18 +1,6 @@
-// fichero 5351 -- utilidades static
+// fichero 5351 -- utilidades static -- MODIFICADO
 static int util5351_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util5351_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util5351_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util5351_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar5351(int a, int b) {

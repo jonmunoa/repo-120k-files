@@ -1,6 +1,6 @@
-// fichero 16678 -- macros y constantes
-#define LIMITE_16678 16778
-#define FACTOR_16678 4
+// fichero 16678 -- macros y constantes -- MODIFICADO
+#define LIMITE_16678 16878
+#define FACTOR_16678 5
 
 int aplicar_limite16678(int valor) {
     if (valor > LIMITE_16678) return LIMITE_16678;

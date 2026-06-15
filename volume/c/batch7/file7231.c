@@ -1,18 +1,6 @@
-// fichero 7231 -- utilidades static
+// fichero 7231 -- utilidades static -- MODIFICADO
 static int util7231_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util7231_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util7231_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util7231_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar7231(int a, int b) {

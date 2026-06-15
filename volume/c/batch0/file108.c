@@ -1,6 +1,6 @@
-// fichero 108 -- funcion suelta
+// fichero 108 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular108(int x) {
-    return x * 4 + 108;
+    return x * 5 + 108; /* factor cambiado */
 }

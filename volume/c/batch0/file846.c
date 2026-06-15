@@ -1,6 +1,6 @@
-// fichero 846 -- macros y constantes
-#define LIMITE_846 946
-#define FACTOR_846 2
+// fichero 846 -- macros y constantes -- MODIFICADO
+#define LIMITE_846 1046
+#define FACTOR_846 3
 
 int aplicar_limite846(int valor) {
     if (valor > LIMITE_846) return LIMITE_846;

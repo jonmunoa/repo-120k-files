@@ -1,6 +1,6 @@
-// fichero 5834 -- macros y constantes
-#define LIMITE_5834 5934
-#define FACTOR_5834 5
+// fichero 5834 -- macros y constantes -- MODIFICADO
+#define LIMITE_5834 6034
+#define FACTOR_5834 6
 
 int aplicar_limite5834(int valor) {
     if (valor > LIMITE_5834) return LIMITE_5834;

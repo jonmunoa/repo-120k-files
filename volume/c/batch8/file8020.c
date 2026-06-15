@@ -1,6 +1,6 @@
-// fichero 8020 -- funcion suelta
+// fichero 8020 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular8020(int x) {
-    return x * 6 + 8020;
+    return x * 7 + 8020; /* factor cambiado */
 }

@@ -1,18 +1,16 @@
-// fichero 30101 -- struct + funciones
+// fichero 30101 -- struct + funciones -- MODIFICADO
 #include <stdlib.h>
 
 typedef struct {
     int id;
     double valor;
+    int version;
 } Registro30101;
 
 Registro30101 crear_registro30101(int id) {
     Registro30101 r;
     r.id = id;
     r.valor = id * 1.5;
+    r.version = 2;
     return r;
-}
-
-double total_registro30101(Registro30101 r) {
-    return r.valor + r.id;
 }

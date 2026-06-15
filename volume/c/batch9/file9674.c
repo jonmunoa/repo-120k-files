@@ -1,6 +1,6 @@
-// fichero 9674 -- macros y constantes
-#define LIMITE_9674 9774
-#define FACTOR_9674 5
+// fichero 9674 -- macros y constantes -- MODIFICADO
+#define LIMITE_9674 9874
+#define FACTOR_9674 6
 
 int aplicar_limite9674(int valor) {
     if (valor > LIMITE_9674) return LIMITE_9674;

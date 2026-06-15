@@ -1,6 +1,6 @@
-// fichero 5042 -- macros y constantes
-#define LIMITE_5042 5142
-#define FACTOR_5042 3
+// fichero 5042 -- macros y constantes -- MODIFICADO
+#define LIMITE_5042 5242
+#define FACTOR_5042 4
 
 int aplicar_limite5042(int valor) {
     if (valor > LIMITE_5042) return LIMITE_5042;

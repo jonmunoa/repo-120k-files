@@ -1,18 +1,6 @@
-// fichero 23015 -- utilidades static
+// fichero 23015 -- utilidades static -- MODIFICADO
 static int util23015_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util23015_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util23015_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util23015_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar23015(int a, int b) {

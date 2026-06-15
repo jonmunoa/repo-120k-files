@@ -1,18 +1,6 @@
-// fichero 45639 -- utilidades static
+// fichero 45639 -- utilidades static -- MODIFICADO
 static int util45639_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util45639_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util45639_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util45639_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar45639(int a, int b) {

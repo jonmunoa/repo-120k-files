@@ -1,18 +1,6 @@
-// fichero 9971 -- utilidades static
+// fichero 9971 -- utilidades static -- MODIFICADO
 static int util9971_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util9971_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util9971_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util9971_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar9971(int a, int b) {

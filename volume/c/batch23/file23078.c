@@ -1,6 +1,6 @@
-// fichero 23078 -- macros y constantes
-#define LIMITE_23078 23178
-#define FACTOR_23078 4
+// fichero 23078 -- macros y constantes -- MODIFICADO
+#define LIMITE_23078 23278
+#define FACTOR_23078 5
 
 int aplicar_limite23078(int valor) {
     if (valor > LIMITE_23078) return LIMITE_23078;

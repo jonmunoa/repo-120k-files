@@ -1,18 +1,6 @@
-// fichero 24047 -- utilidades static
+// fichero 24047 -- utilidades static -- MODIFICADO
 static int util24047_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util24047_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util24047_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util24047_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar24047(int a, int b) {

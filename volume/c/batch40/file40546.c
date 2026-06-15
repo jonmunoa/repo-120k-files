@@ -1,6 +1,6 @@
-// fichero 40546 -- macros y constantes
-#define LIMITE_40546 40646
-#define FACTOR_40546 2
+// fichero 40546 -- macros y constantes -- MODIFICADO
+#define LIMITE_40546 40746
+#define FACTOR_40546 3
 
 int aplicar_limite40546(int valor) {
     if (valor > LIMITE_40546) return LIMITE_40546;

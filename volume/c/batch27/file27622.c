@@ -1,6 +1,6 @@
-// fichero 27622 -- macros y constantes
-#define LIMITE_27622 27722
-#define FACTOR_27622 3
+// fichero 27622 -- macros y constantes -- MODIFICADO
+#define LIMITE_27622 27822
+#define FACTOR_27622 4
 
 int aplicar_limite27622(int valor) {
     if (valor > LIMITE_27622) return LIMITE_27622;

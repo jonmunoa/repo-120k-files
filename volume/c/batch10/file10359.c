@@ -1,18 +1,6 @@
-// fichero 10359 -- utilidades static
+// fichero 10359 -- utilidades static -- MODIFICADO
 static int util10359_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util10359_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util10359_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util10359_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar10359(int a, int b) {

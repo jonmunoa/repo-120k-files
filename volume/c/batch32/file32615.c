@@ -1,18 +1,6 @@
-// fichero 32615 -- utilidades static
+// fichero 32615 -- utilidades static -- MODIFICADO
 static int util32615_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util32615_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util32615_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util32615_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar32615(int a, int b) {

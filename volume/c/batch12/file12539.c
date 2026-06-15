@@ -1,18 +1,6 @@
-// fichero 12539 -- utilidades static
+// fichero 12539 -- utilidades static -- MODIFICADO
 static int util12539_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util12539_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util12539_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util12539_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar12539(int a, int b) {

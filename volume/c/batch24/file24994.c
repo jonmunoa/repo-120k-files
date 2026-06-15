@@ -1,6 +1,6 @@
-// fichero 24994 -- macros y constantes
-#define LIMITE_24994 25094
-#define FACTOR_24994 5
+// fichero 24994 -- macros y constantes -- MODIFICADO
+#define LIMITE_24994 25194
+#define FACTOR_24994 6
 
 int aplicar_limite24994(int valor) {
     if (valor > LIMITE_24994) return LIMITE_24994;

@@ -1,6 +1,6 @@
-// fichero 48074 -- macros y constantes
-#define LIMITE_48074 48174
-#define FACTOR_48074 5
+// fichero 48074 -- macros y constantes -- MODIFICADO
+#define LIMITE_48074 48274
+#define FACTOR_48074 6
 
 int aplicar_limite48074(int valor) {
     if (valor > LIMITE_48074) return LIMITE_48074;

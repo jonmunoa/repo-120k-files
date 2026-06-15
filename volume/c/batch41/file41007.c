@@ -1,18 +1,6 @@
-// fichero 41007 -- utilidades static
+// fichero 41007 -- utilidades static -- MODIFICADO
 static int util41007_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util41007_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util41007_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util41007_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar41007(int a, int b) {

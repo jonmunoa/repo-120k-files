@@ -1,18 +1,6 @@
-// fichero 47387 -- utilidades static
+// fichero 47387 -- utilidades static -- MODIFICADO
 static int util47387_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util47387_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util47387_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util47387_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar47387(int a, int b) {

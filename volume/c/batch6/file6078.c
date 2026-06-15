@@ -1,6 +1,6 @@
-// fichero 6078 -- macros y constantes
-#define LIMITE_6078 6178
-#define FACTOR_6078 4
+// fichero 6078 -- macros y constantes -- MODIFICADO
+#define LIMITE_6078 6278
+#define FACTOR_6078 5
 
 int aplicar_limite6078(int valor) {
     if (valor > LIMITE_6078) return LIMITE_6078;

@@ -1,18 +1,6 @@
-// fichero 49287 -- utilidades static
+// fichero 49287 -- utilidades static -- MODIFICADO
 static int util49287_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util49287_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util49287_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util49287_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar49287(int a, int b) {

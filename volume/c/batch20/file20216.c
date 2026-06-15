@@ -1,6 +1,6 @@
-// fichero 20216 -- funcion suelta
+// fichero 20216 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular20216(int x) {
-    return x * 1 + 20216;
+    return x * 2 + 20216; /* factor cambiado */
 }

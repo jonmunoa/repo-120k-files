@@ -1,6 +1,6 @@
-// fichero 42070 -- macros y constantes
-#define LIMITE_42070 42170
-#define FACTOR_42070 1
+// fichero 42070 -- macros y constantes -- MODIFICADO
+#define LIMITE_42070 42270
+#define FACTOR_42070 2
 
 int aplicar_limite42070(int valor) {
     if (valor > LIMITE_42070) return LIMITE_42070;

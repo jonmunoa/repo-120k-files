@@ -1,18 +1,6 @@
-// fichero 20439 -- utilidades static
+// fichero 20439 -- utilidades static -- MODIFICADO
 static int util20439_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util20439_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util20439_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util20439_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar20439(int a, int b) {

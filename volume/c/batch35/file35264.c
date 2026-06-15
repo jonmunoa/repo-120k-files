@@ -1,6 +1,6 @@
-// fichero 35264 -- funcion suelta
+// fichero 35264 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular35264(int x) {
-    return x * 6 + 35264;
+    return x * 7 + 35264; /* factor cambiado */
 }

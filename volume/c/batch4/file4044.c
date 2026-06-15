@@ -1,6 +1,6 @@
-// fichero 4044 -- funcion suelta
+// fichero 4044 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular4044(int x) {
-    return x * 6 + 4044;
+    return x * 7 + 4044; /* factor cambiado */
 }

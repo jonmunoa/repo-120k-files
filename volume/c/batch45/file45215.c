@@ -1,18 +1,6 @@
-// fichero 45215 -- utilidades static
+// fichero 45215 -- utilidades static -- MODIFICADO
 static int util45215_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util45215_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util45215_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util45215_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar45215(int a, int b) {

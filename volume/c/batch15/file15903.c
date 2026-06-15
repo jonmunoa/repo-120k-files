@@ -1,18 +1,6 @@
-// fichero 15903 -- utilidades static
+// fichero 15903 -- utilidades static -- MODIFICADO
 static int util15903_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util15903_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util15903_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util15903_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar15903(int a, int b) {

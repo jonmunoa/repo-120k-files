@@ -1,18 +1,6 @@
-// fichero 75 -- utilidades static
+// fichero 75 -- utilidades static -- MODIFICADO
 static int util75_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util75_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util75_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util75_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar75(int a, int b) {

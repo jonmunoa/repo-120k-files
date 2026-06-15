@@ -1,6 +1,6 @@
-// fichero 45886 -- macros y constantes
-#define LIMITE_45886 45986
-#define FACTOR_45886 2
+// fichero 45886 -- macros y constantes -- MODIFICADO
+#define LIMITE_45886 46086
+#define FACTOR_45886 3
 
 int aplicar_limite45886(int valor) {
     if (valor > LIMITE_45886) return LIMITE_45886;

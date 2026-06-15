@@ -1,18 +1,6 @@
-// fichero 40023 -- utilidades static
+// fichero 40023 -- utilidades static -- MODIFICADO
 static int util40023_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util40023_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util40023_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util40023_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar40023(int a, int b) {

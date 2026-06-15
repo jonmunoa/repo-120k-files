@@ -1,6 +1,6 @@
-// fichero 440 -- funcion suelta
+// fichero 440 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular440(int x) {
-    return x * 7 + 440;
+    return x * 8 + 440; /* factor cambiado */
 }

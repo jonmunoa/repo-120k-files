@@ -1,18 +1,6 @@
-// fichero 12043 -- utilidades static
+// fichero 12043 -- utilidades static -- MODIFICADO
 static int util12043_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util12043_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util12043_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util12043_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar12043(int a, int b) {

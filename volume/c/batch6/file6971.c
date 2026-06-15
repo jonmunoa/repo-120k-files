@@ -1,18 +1,6 @@
-// fichero 6971 -- utilidades static
+// fichero 6971 -- utilidades static -- MODIFICADO
 static int util6971_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util6971_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util6971_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util6971_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar6971(int a, int b) {

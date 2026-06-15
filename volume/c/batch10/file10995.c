@@ -1,18 +1,6 @@
-// fichero 10995 -- utilidades static
+// fichero 10995 -- utilidades static -- MODIFICADO
 static int util10995_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util10995_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util10995_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util10995_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar10995(int a, int b) {

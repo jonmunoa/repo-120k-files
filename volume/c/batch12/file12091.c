@@ -1,18 +1,6 @@
-// fichero 12091 -- utilidades static
+// fichero 12091 -- utilidades static -- MODIFICADO
 static int util12091_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util12091_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util12091_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util12091_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar12091(int a, int b) {

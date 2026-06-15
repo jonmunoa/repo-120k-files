@@ -1,18 +1,6 @@
-// fichero 32131 -- utilidades static
+// fichero 32131 -- utilidades static -- MODIFICADO
 static int util32131_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util32131_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util32131_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util32131_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar32131(int a, int b) {

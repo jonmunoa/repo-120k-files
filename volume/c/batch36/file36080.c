@@ -1,6 +1,6 @@
-// fichero 36080 -- funcion suelta
+// fichero 36080 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular36080(int x) {
-    return x * 3 + 36080;
+    return x * 4 + 36080; /* factor cambiado */
 }

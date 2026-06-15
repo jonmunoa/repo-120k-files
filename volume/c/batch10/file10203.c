@@ -1,18 +1,6 @@
-// fichero 10203 -- utilidades static
+// fichero 10203 -- utilidades static -- MODIFICADO
 static int util10203_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util10203_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util10203_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util10203_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar10203(int a, int b) {

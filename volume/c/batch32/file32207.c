@@ -1,18 +1,6 @@
-// fichero 32207 -- utilidades static
+// fichero 32207 -- utilidades static -- MODIFICADO
 static int util32207_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util32207_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util32207_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util32207_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar32207(int a, int b) {

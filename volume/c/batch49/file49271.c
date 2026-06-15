@@ -1,18 +1,6 @@
-// fichero 49271 -- utilidades static
+// fichero 49271 -- utilidades static -- MODIFICADO
 static int util49271_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util49271_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util49271_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util49271_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar49271(int a, int b) {

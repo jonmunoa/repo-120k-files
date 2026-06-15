@@ -1,6 +1,6 @@
-// fichero 28256 -- funcion suelta
+// fichero 28256 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular28256(int x) {
-    return x * 5 + 28256;
+    return x * 6 + 28256; /* factor cambiado */
 }

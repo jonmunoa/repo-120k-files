@@ -1,18 +1,6 @@
-// fichero 13407 -- utilidades static
+// fichero 13407 -- utilidades static -- MODIFICADO
 static int util13407_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util13407_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util13407_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util13407_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar13407(int a, int b) {

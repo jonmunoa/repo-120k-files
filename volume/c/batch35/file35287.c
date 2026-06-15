@@ -1,18 +1,6 @@
-// fichero 35287 -- utilidades static
+// fichero 35287 -- utilidades static -- MODIFICADO
 static int util35287_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util35287_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util35287_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util35287_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar35287(int a, int b) {

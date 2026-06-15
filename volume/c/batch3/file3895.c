@@ -1,18 +1,6 @@
-// fichero 3895 -- utilidades static
+// fichero 3895 -- utilidades static -- MODIFICADO
 static int util3895_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util3895_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util3895_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util3895_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar3895(int a, int b) {

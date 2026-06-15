@@ -1,6 +1,6 @@
-// fichero 5396 -- funcion suelta
+// fichero 5396 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular5396(int x) {
-    return x * 7 + 5396;
+    return x * 8 + 5396; /* factor cambiado */
 }

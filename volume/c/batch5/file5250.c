@@ -1,6 +1,6 @@
-// fichero 5250 -- macros y constantes
-#define LIMITE_5250 5350
-#define FACTOR_5250 1
+// fichero 5250 -- macros y constantes -- MODIFICADO
+#define LIMITE_5250 5450
+#define FACTOR_5250 2
 
 int aplicar_limite5250(int valor) {
     if (valor > LIMITE_5250) return LIMITE_5250;

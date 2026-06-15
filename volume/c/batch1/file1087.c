@@ -1,18 +1,6 @@
-// fichero 1087 -- utilidades static
+// fichero 1087 -- utilidades static -- MODIFICADO
 static int util1087_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util1087_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util1087_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util1087_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar1087(int a, int b) {

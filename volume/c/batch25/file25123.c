@@ -1,18 +1,6 @@
-// fichero 25123 -- utilidades static
+// fichero 25123 -- utilidades static -- MODIFICADO
 static int util25123_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util25123_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util25123_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util25123_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar25123(int a, int b) {

@@ -1,18 +1,6 @@
-// fichero 43915 -- utilidades static
+// fichero 43915 -- utilidades static -- MODIFICADO
 static int util43915_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util43915_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util43915_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util43915_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar43915(int a, int b) {

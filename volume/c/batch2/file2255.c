@@ -1,18 +1,6 @@
-// fichero 2255 -- utilidades static
+// fichero 2255 -- utilidades static -- MODIFICADO
 static int util2255_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util2255_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util2255_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util2255_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar2255(int a, int b) {

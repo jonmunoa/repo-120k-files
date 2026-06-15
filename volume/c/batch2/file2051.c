@@ -1,18 +1,6 @@
-// fichero 2051 -- utilidades static
+// fichero 2051 -- utilidades static -- MODIFICADO
 static int util2051_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util2051_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util2051_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util2051_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar2051(int a, int b) {

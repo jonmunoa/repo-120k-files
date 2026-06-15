@@ -1,18 +1,6 @@
-// fichero 46179 -- utilidades static
+// fichero 46179 -- utilidades static -- MODIFICADO
 static int util46179_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util46179_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util46179_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util46179_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar46179(int a, int b) {

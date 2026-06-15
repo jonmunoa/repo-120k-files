@@ -1,18 +1,6 @@
-// fichero 16163 -- utilidades static
+// fichero 16163 -- utilidades static -- MODIFICADO
 static int util16163_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util16163_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util16163_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util16163_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar16163(int a, int b) {

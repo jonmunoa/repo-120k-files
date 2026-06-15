@@ -1,18 +1,6 @@
-// fichero 21387 -- utilidades static
+// fichero 21387 -- utilidades static -- MODIFICADO
 static int util21387_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util21387_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util21387_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util21387_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar21387(int a, int b) {

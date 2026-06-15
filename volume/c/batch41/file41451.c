@@ -1,18 +1,6 @@
-// fichero 41451 -- utilidades static
+// fichero 41451 -- utilidades static -- MODIFICADO
 static int util41451_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util41451_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util41451_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util41451_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar41451(int a, int b) {

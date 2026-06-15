@@ -1,18 +1,6 @@
-// fichero 37519 -- utilidades static
+// fichero 37519 -- utilidades static -- MODIFICADO
 static int util37519_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util37519_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util37519_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util37519_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar37519(int a, int b) {

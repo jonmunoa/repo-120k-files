@@ -1,18 +1,6 @@
-// fichero 9803 -- utilidades static
+// fichero 9803 -- utilidades static -- MODIFICADO
 static int util9803_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util9803_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util9803_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util9803_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar9803(int a, int b) {

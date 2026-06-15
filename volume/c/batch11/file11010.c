@@ -1,6 +1,6 @@
-// fichero 11010 -- macros y constantes
-#define LIMITE_11010 11110
-#define FACTOR_11010 1
+// fichero 11010 -- macros y constantes -- MODIFICADO
+#define LIMITE_11010 11210
+#define FACTOR_11010 2
 
 int aplicar_limite11010(int valor) {
     if (valor > LIMITE_11010) return LIMITE_11010;

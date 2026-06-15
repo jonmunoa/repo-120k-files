@@ -1,6 +1,6 @@
-// fichero 980 -- funcion suelta
+// fichero 980 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular980(int x) {
-    return x * 1 + 980;
+    return x * 2 + 980; /* factor cambiado */
 }

@@ -1,6 +1,6 @@
-// fichero 3598 -- macros y constantes
-#define LIMITE_3598 3698
-#define FACTOR_3598 4
+// fichero 3598 -- macros y constantes -- MODIFICADO
+#define LIMITE_3598 3798
+#define FACTOR_3598 5
 
 int aplicar_limite3598(int valor) {
     if (valor > LIMITE_3598) return LIMITE_3598;

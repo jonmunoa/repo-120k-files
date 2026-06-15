@@ -1,6 +1,6 @@
-// fichero 4890 -- macros y constantes
-#define LIMITE_4890 4990
-#define FACTOR_4890 1
+// fichero 4890 -- macros y constantes -- MODIFICADO
+#define LIMITE_4890 5090
+#define FACTOR_4890 2
 
 int aplicar_limite4890(int valor) {
     if (valor > LIMITE_4890) return LIMITE_4890;

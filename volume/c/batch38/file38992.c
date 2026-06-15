@@ -1,6 +1,6 @@
-// fichero 38992 -- funcion suelta
+// fichero 38992 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular38992(int x) {
-    return x * 3 + 38992;
+    return x * 4 + 38992; /* factor cambiado */
 }

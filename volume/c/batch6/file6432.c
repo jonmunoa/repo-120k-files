@@ -1,6 +1,6 @@
-// fichero 6432 -- funcion suelta
+// fichero 6432 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular6432(int x) {
-    return x * 7 + 6432;
+    return x * 8 + 6432; /* factor cambiado */
 }

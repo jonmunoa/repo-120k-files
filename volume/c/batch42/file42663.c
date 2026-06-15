@@ -1,18 +1,6 @@
-// fichero 42663 -- utilidades static
+// fichero 42663 -- utilidades static -- MODIFICADO
 static int util42663_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util42663_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util42663_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util42663_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar42663(int a, int b) {

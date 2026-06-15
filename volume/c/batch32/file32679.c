@@ -1,18 +1,6 @@
-// fichero 32679 -- utilidades static
+// fichero 32679 -- utilidades static -- MODIFICADO
 static int util32679_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util32679_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util32679_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util32679_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar32679(int a, int b) {

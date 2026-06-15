@@ -1,6 +1,6 @@
-// fichero 10320 -- funcion suelta
+// fichero 10320 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular10320(int x) {
-    return x * 3 + 10320;
+    return x * 4 + 10320; /* factor cambiado */
 }

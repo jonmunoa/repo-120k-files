@@ -1,6 +1,6 @@
-// fichero 98 -- macros y constantes
-#define LIMITE_98 198
-#define FACTOR_98 4
+// fichero 98 -- macros y constantes -- MODIFICADO
+#define LIMITE_98 298
+#define FACTOR_98 5
 
 int aplicar_limite98(int valor) {
     if (valor > LIMITE_98) return LIMITE_98;

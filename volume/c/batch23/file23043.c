@@ -1,18 +1,6 @@
-// fichero 23043 -- utilidades static
+// fichero 23043 -- utilidades static -- MODIFICADO
 static int util23043_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util23043_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util23043_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util23043_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar23043(int a, int b) {

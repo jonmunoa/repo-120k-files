@@ -1,18 +1,6 @@
-// fichero 10159 -- utilidades static
+// fichero 10159 -- utilidades static -- MODIFICADO
 static int util10159_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util10159_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util10159_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util10159_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar10159(int a, int b) {

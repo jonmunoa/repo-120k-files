@@ -1,18 +1,6 @@
-// fichero 831 -- utilidades static
+// fichero 831 -- utilidades static -- MODIFICADO
 static int util831_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util831_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util831_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util831_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar831(int a, int b) {

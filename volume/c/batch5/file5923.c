@@ -1,18 +1,6 @@
-// fichero 5923 -- utilidades static
+// fichero 5923 -- utilidades static -- MODIFICADO
 static int util5923_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util5923_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util5923_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util5923_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar5923(int a, int b) {

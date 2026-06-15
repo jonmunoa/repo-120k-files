@@ -1,18 +1,6 @@
-// fichero 40375 -- utilidades static
+// fichero 40375 -- utilidades static -- MODIFICADO
 static int util40375_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util40375_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util40375_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util40375_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar40375(int a, int b) {

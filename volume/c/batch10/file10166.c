@@ -1,6 +1,6 @@
-// fichero 10166 -- macros y constantes
-#define LIMITE_10166 10266
-#define FACTOR_10166 2
+// fichero 10166 -- macros y constantes -- MODIFICADO
+#define LIMITE_10166 10366
+#define FACTOR_10166 3
 
 int aplicar_limite10166(int valor) {
     if (valor > LIMITE_10166) return LIMITE_10166;

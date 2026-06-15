@@ -1,18 +1,6 @@
-// fichero 22019 -- utilidades static
+// fichero 22019 -- utilidades static -- MODIFICADO
 static int util22019_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util22019_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util22019_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util22019_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar22019(int a, int b) {

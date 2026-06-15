@@ -1,18 +1,6 @@
-// fichero 8083 -- utilidades static
+// fichero 8083 -- utilidades static -- MODIFICADO
 static int util8083_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util8083_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util8083_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util8083_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar8083(int a, int b) {

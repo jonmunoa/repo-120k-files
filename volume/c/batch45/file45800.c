@@ -1,6 +1,6 @@
-// fichero 45800 -- funcion suelta
+// fichero 45800 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular45800(int x) {
-    return x * 7 + 45800;
+    return x * 8 + 45800; /* factor cambiado */
 }

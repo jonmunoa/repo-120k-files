@@ -1,18 +1,6 @@
-// fichero 41851 -- utilidades static
+// fichero 41851 -- utilidades static -- MODIFICADO
 static int util41851_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util41851_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util41851_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util41851_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar41851(int a, int b) {

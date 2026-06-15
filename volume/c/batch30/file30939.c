@@ -1,18 +1,6 @@
-// fichero 30939 -- utilidades static
+// fichero 30939 -- utilidades static -- MODIFICADO
 static int util30939_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util30939_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util30939_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util30939_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar30939(int a, int b) {

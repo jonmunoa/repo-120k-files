@@ -1,18 +1,6 @@
-// fichero 1811 -- utilidades static
+// fichero 1811 -- utilidades static -- MODIFICADO
 static int util1811_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util1811_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util1811_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util1811_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar1811(int a, int b) {

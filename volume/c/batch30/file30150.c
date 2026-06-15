@@ -1,6 +1,6 @@
-// fichero 30150 -- macros y constantes
-#define LIMITE_30150 30250
-#define FACTOR_30150 1
+// fichero 30150 -- macros y constantes -- MODIFICADO
+#define LIMITE_30150 30350
+#define FACTOR_30150 2
 
 int aplicar_limite30150(int valor) {
     if (valor > LIMITE_30150) return LIMITE_30150;

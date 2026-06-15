@@ -1,18 +1,6 @@
-// fichero 611 -- utilidades static
+// fichero 611 -- utilidades static -- MODIFICADO
 static int util611_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util611_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util611_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util611_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar611(int a, int b) {

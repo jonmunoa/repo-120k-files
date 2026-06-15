@@ -1,18 +1,6 @@
-// fichero 19603 -- utilidades static
+// fichero 19603 -- utilidades static -- MODIFICADO
 static int util19603_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util19603_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util19603_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util19603_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar19603(int a, int b) {

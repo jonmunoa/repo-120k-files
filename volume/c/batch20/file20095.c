@@ -1,18 +1,6 @@
-// fichero 20095 -- utilidades static
+// fichero 20095 -- utilidades static -- MODIFICADO
 static int util20095_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util20095_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util20095_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util20095_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar20095(int a, int b) {

@@ -1,18 +1,6 @@
-// fichero 6007 -- utilidades static
+// fichero 6007 -- utilidades static -- MODIFICADO
 static int util6007_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util6007_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util6007_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util6007_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar6007(int a, int b) {

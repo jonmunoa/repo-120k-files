@@ -1,6 +1,6 @@
-// fichero 58 -- macros y constantes
-#define LIMITE_58 158
-#define FACTOR_58 4
+// fichero 58 -- macros y constantes -- MODIFICADO
+#define LIMITE_58 258
+#define FACTOR_58 5
 
 int aplicar_limite58(int valor) {
     if (valor > LIMITE_58) return LIMITE_58;

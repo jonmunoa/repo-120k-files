@@ -1,18 +1,6 @@
-// fichero 40463 -- utilidades static
+// fichero 40463 -- utilidades static -- MODIFICADO
 static int util40463_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util40463_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util40463_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util40463_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar40463(int a, int b) {

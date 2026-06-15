@@ -1,18 +1,6 @@
-// fichero 42547 -- utilidades static
+// fichero 42547 -- utilidades static -- MODIFICADO
 static int util42547_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util42547_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util42547_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util42547_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar42547(int a, int b) {

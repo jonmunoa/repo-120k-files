@@ -1,6 +1,6 @@
-// fichero 24062 -- macros y constantes
-#define LIMITE_24062 24162
-#define FACTOR_24062 3
+// fichero 24062 -- macros y constantes -- MODIFICADO
+#define LIMITE_24062 24262
+#define FACTOR_24062 4
 
 int aplicar_limite24062(int valor) {
     if (valor > LIMITE_24062) return LIMITE_24062;

@@ -1,18 +1,6 @@
-// fichero 14831 -- utilidades static
+// fichero 14831 -- utilidades static -- MODIFICADO
 static int util14831_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util14831_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util14831_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util14831_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar14831(int a, int b) {

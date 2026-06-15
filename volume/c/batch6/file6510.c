@@ -1,6 +1,6 @@
-// fichero 6510 -- macros y constantes
-#define LIMITE_6510 6610
-#define FACTOR_6510 1
+// fichero 6510 -- macros y constantes -- MODIFICADO
+#define LIMITE_6510 6710
+#define FACTOR_6510 2
 
 int aplicar_limite6510(int valor) {
     if (valor > LIMITE_6510) return LIMITE_6510;

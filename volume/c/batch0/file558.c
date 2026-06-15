@@ -1,6 +1,6 @@
-// fichero 558 -- macros y constantes
-#define LIMITE_558 658
-#define FACTOR_558 4
+// fichero 558 -- macros y constantes -- MODIFICADO
+#define LIMITE_558 758
+#define FACTOR_558 5
 
 int aplicar_limite558(int valor) {
     if (valor > LIMITE_558) return LIMITE_558;

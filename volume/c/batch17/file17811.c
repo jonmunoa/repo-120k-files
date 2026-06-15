@@ -1,18 +1,6 @@
-// fichero 17811 -- utilidades static
+// fichero 17811 -- utilidades static -- MODIFICADO
 static int util17811_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util17811_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util17811_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util17811_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar17811(int a, int b) {

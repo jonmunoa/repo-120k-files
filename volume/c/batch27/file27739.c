@@ -1,18 +1,6 @@
-// fichero 27739 -- utilidades static
+// fichero 27739 -- utilidades static -- MODIFICADO
 static int util27739_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util27739_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util27739_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util27739_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar27739(int a, int b) {

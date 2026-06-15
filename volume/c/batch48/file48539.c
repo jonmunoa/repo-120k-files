@@ -1,18 +1,6 @@
-// fichero 48539 -- utilidades static
+// fichero 48539 -- utilidades static -- MODIFICADO
 static int util48539_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util48539_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util48539_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util48539_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar48539(int a, int b) {

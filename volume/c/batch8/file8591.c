@@ -1,18 +1,6 @@
-// fichero 8591 -- utilidades static
+// fichero 8591 -- utilidades static -- MODIFICADO
 static int util8591_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util8591_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util8591_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util8591_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar8591(int a, int b) {

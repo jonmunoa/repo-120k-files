@@ -1,6 +1,6 @@
-// fichero 68 -- funcion suelta
+// fichero 68 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular68(int x) {
-    return x * 6 + 68;
+    return x * 7 + 68; /* factor cambiado */
 }

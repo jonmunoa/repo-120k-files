@@ -1,18 +1,6 @@
-// fichero 16999 -- utilidades static
+// fichero 16999 -- utilidades static -- MODIFICADO
 static int util16999_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util16999_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util16999_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util16999_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar16999(int a, int b) {

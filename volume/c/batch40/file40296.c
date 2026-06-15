@@ -1,6 +1,6 @@
-// fichero 40296 -- funcion suelta
+// fichero 40296 -- funcion suelta -- MODIFICADO
 #include <stdio.h>
 
 int calcular40296(int x) {
-    return x * 5 + 40296;
+    return x * 6 + 40296; /* factor cambiado */
 }

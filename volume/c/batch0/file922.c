@@ -1,6 +1,6 @@
-// fichero 922 -- macros y constantes
-#define LIMITE_922 1022
-#define FACTOR_922 3
+// fichero 922 -- macros y constantes -- MODIFICADO
+#define LIMITE_922 1122
+#define FACTOR_922 4
 
 int aplicar_limite922(int valor) {
     if (valor > LIMITE_922) return LIMITE_922;

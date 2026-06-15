@@ -1,6 +1,6 @@
-// fichero 10742 -- macros y constantes
-#define LIMITE_10742 10842
-#define FACTOR_10742 3
+// fichero 10742 -- macros y constantes -- MODIFICADO
+#define LIMITE_10742 10942
+#define FACTOR_10742 4
 
 int aplicar_limite10742(int valor) {
     if (valor > LIMITE_10742) return LIMITE_10742;

@@ -1,18 +1,6 @@
-// fichero 14471 -- utilidades static
+// fichero 14471 -- utilidades static -- MODIFICADO
 static int util14471_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util14471_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util14471_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util14471_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar14471(int a, int b) {

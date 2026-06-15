@@ -1,6 +1,6 @@
-// fichero 35670 -- macros y constantes
-#define LIMITE_35670 35770
-#define FACTOR_35670 1
+// fichero 35670 -- macros y constantes -- MODIFICADO
+#define LIMITE_35670 35870
+#define FACTOR_35670 2
 
 int aplicar_limite35670(int valor) {
     if (valor > LIMITE_35670) return LIMITE_35670;

@@ -1,18 +1,6 @@
-// fichero 16343 -- utilidades static
+// fichero 16343 -- utilidades static -- MODIFICADO
 static int util16343_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util16343_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util16343_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util16343_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar16343(int a, int b) {

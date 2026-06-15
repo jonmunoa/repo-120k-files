@@ -1,6 +1,6 @@
-// fichero 37306 -- macros y constantes
-#define LIMITE_37306 37406
-#define FACTOR_37306 2
+// fichero 37306 -- macros y constantes -- MODIFICADO
+#define LIMITE_37306 37506
+#define FACTOR_37306 3
 
 int aplicar_limite37306(int valor) {
     if (valor > LIMITE_37306) return LIMITE_37306;

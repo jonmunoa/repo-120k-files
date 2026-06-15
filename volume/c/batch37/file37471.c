@@ -1,18 +1,6 @@
-// fichero 37471 -- utilidades static
+// fichero 37471 -- utilidades static -- MODIFICADO
 static int util37471_0(int a, int b) {
-    return a + b * 1;
-}
-
-static int util37471_1(int a, int b) {
-    return a + b * 2;
-}
-
-static int util37471_2(int a, int b) {
-    return a + b * 3;
-}
-
-static int util37471_3(int a, int b) {
-    return a + b * 4;
+    return a + b * 2; /* modificado */
 }
 
 int combinar37471(int a, int b) {
