@@ -1,11 +1,2 @@
-// fichero 109364
-namespace Generated { public class C109364 {
-  public int M0() { return 109364; }
-  public int M1() { return 109365; }
-  public int M2() { return 109366; }
-  public int M3() { return 109367; }
-  public int M4() { return 109368; }
-  public int M5() { return 109369; }
-  public int M6() { return 109370; }
-  public int M7() { return 109371; }
-} }
+// volumen js, fichero 16563 -- MODIFICADO en commit tocho
+function volumeFile16563() { return 16563 + 1; }

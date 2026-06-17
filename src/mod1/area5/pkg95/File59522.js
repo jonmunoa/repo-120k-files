@@ -1,11 +1,2 @@
-// fichero 59522
-namespace Generated { public class C59522 {
-  public int M0() { return 59522; }
-  public int M1() { return 59523; }
-  public int M2() { return 59524; }
-  public int M3() { return 59525; }
-  public int M4() { return 59526; }
-  public int M5() { return 59527; }
-  public int M6() { return 59528; }
-  public int M7() { return 59529; }
-} }
+// volumen js, fichero 9090 -- MODIFICADO en commit tocho
+function volumeFile9090() { return 9090 + 1; }

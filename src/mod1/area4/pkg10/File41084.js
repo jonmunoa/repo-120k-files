@@ -1,11 +1,2 @@
-// fichero 41084
-namespace Generated { public class C41084 {
-  public int M0() { return 41084; }
-  public int M1() { return 41085; }
-  public int M2() { return 41086; }
-  public int M3() { return 41087; }
-  public int M4() { return 41088; }
-  public int M5() { return 41089; }
-  public int M6() { return 41090; }
-  public int M7() { return 41091; }
-} }
+// volumen js, fichero 5884 -- MODIFICADO en commit tocho
+function volumeFile5884() { return 5884 + 1; }

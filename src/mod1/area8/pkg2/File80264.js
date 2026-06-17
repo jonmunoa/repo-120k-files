@@ -1,11 +1,2 @@
-// fichero 80264
-namespace Generated { public class C80264 {
-  public int M0() { return 80264; }
-  public int M1() { return 80265; }
-  public int M2() { return 80266; }
-  public int M3() { return 80267; }
-  public int M4() { return 80268; }
-  public int M5() { return 80269; }
-  public int M6() { return 80270; }
-  public int M7() { return 80271; }
-} }
+// volumen js, fichero 12714 -- MODIFICADO en commit tocho
+function volumeFile12714() { return 12714 + 1; }

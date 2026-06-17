@@ -1,2 +1,2 @@
-// volumen js, fichero 1180 -- MODIFICADO en commit tocho
-function volumeFile1180() { return 1180 + 1; }
+// volumen js, fichero 40348 -- MODIFICADO en commit tocho
+function volumeFile40348() { return 40348 + 1; }

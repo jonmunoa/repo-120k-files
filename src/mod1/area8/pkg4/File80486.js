@@ -1,11 +1,2 @@
-// fichero 80486
-namespace Generated { public class C80486 {
-  public int M0() { return 80486; }
-  public int M1() { return 80487; }
-  public int M2() { return 80488; }
-  public int M3() { return 80489; }
-  public int M4() { return 80490; }
-  public int M5() { return 80491; }
-  public int M6() { return 80492; }
-  public int M7() { return 80493; }
-} }
+// volumen js, fichero 13084 -- MODIFICADO en commit tocho
+function volumeFile13084() { return 13084 + 1; }

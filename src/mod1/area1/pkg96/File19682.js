@@ -1,11 +1,2 @@
-// fichero 19682
-namespace Generated { public class C19682 {
-  public int M0() { return 19682; }
-  public int M1() { return 19683; }
-  public int M2() { return 19684; }
-  public int M3() { return 19685; }
-  public int M4() { return 19686; }
-  public int M5() { return 19687; }
-  public int M6() { return 19688; }
-  public int M7() { return 19689; }
-} }
+// volumen js, fichero 2450 -- MODIFICADO en commit tocho
+function volumeFile2450() { return 2450 + 1; }

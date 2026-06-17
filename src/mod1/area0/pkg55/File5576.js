@@ -1,11 +1,2 @@
-// fichero 5576
-namespace Generated { public class C5576 {
-  public int M0() { return 5576; }
-  public int M1() { return 5577; }
-  public int M2() { return 5578; }
-  public int M3() { return 5579; }
-  public int M4() { return 5580; }
-  public int M5() { return 5581; }
-  public int M6() { return 5582; }
-  public int M7() { return 5583; }
-} }
+// volumen js, fichero 32 -- MODIFICADO en commit tocho
+function volumeFile32() { return 32 + 1; }

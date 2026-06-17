@@ -1,2 +1,2 @@
-// bloque compartido
-public class Shared { public int Value() { return 42; } }
+// volumen js, fichero 364 -- MODIFICADO en commit tocho
+function volumeFile364() { return 364 + 1; }

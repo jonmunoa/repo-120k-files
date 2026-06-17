@@ -1,11 +1,2 @@
-// fichero 464
-namespace Generated { public class C464 {
-  public int M0() { return 464; }
-  public int M1() { return 465; }
-  public int M2() { return 466; }
-  public int M3() { return 467; }
-  public int M4() { return 468; }
-  public int M5() { return 469; }
-  public int M6() { return 470; }
-  public int M7() { return 471; }
-} }
+// volumen js, fichero 19009 -- MODIFICADO en commit tocho
+function volumeFile19009() { return 19009 + 1; }

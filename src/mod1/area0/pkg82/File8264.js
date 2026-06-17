@@ -1,11 +1,2 @@
-// fichero 8264
-namespace Generated { public class C8264 {
-  public int M0() { return 8264; }
-  public int M1() { return 8265; }
-  public int M2() { return 8266; }
-  public int M3() { return 8267; }
-  public int M4() { return 8268; }
-  public int M5() { return 8269; }
-  public int M6() { return 8270; }
-  public int M7() { return 8271; }
-} }
+// volumen js, fichero 530 -- MODIFICADO en commit tocho
+function volumeFile530() { return 530 + 1; }

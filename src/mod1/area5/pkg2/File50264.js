@@ -1,11 +1,2 @@
-// fichero 50264
-namespace Generated { public class C50264 {
-  public int M0() { return 50264; }
-  public int M1() { return 50265; }
-  public int M2() { return 50266; }
-  public int M3() { return 50267; }
-  public int M4() { return 50268; }
-  public int M5() { return 50269; }
-  public int M6() { return 50270; }
-  public int M7() { return 50271; }
-} }
+// volumen js, fichero 7714 -- MODIFICADO en commit tocho
+function volumeFile7714() { return 7714 + 1; }

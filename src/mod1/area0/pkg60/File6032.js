@@ -1,11 +1,2 @@
-// fichero 6032
-namespace Generated { public class C6032 {
-  public int M0() { return 6032; }
-  public int M1() { return 6033; }
-  public int M2() { return 6034; }
-  public int M3() { return 6035; }
-  public int M4() { return 6036; }
-  public int M5() { return 6037; }
-  public int M6() { return 6038; }
-  public int M7() { return 6039; }
-} }
+// volumen js, fichero 125 -- MODIFICADO en commit tocho
+function volumeFile125() { return 125 + 1; }

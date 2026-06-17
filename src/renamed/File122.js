@@ -1,2 +1,2 @@
-// modificado en commit 3, fichero 22
-public class Mod3_22 { }
+// volumen js, fichero 18375 -- MODIFICADO en commit tocho
+function volumeFile18375() { return 18375 + 1; }

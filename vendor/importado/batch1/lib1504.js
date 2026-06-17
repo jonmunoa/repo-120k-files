@@ -1,2 +1,2 @@
-// dependencia de terceros importada, fichero 1504
-function thirdparty1504() { return 1504; }
+// volumen js, fichero 20672 -- MODIFICADO en commit tocho
+function volumeFile20672() { return 20672 + 1; }

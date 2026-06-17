@@ -1,8 +1,2 @@
-// contenido ligeramente modificado tras el rename
-function renamedAndTweaked() {
-  console.log("linea nueva 0");
-  console.log("linea nueva 1");
-  console.log("linea nueva 2");
-  console.log("linea nueva 3");
-  console.log("linea nueva 4");
-}
+// volumen js, fichero 1 -- MODIFICADO en commit tocho
+function volumeFile1() { return 1 + 1; }
